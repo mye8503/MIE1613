@@ -58,25 +58,7 @@ if __name__ == "__main__":
     ax.set_title('Comparison of Mean RMSE Across Models')
 
     ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
-
-    # # --- Legend ---
-    # # Line-style legend (Less Volatile / Volatile)
-    # style_legend = [
-    #     mlines.Line2D([], [], color='black', linestyle='-',  label='Less Volatile'),
-    #     mlines.Line2D([], [], color='black', linestyle='--', label='Volatile'),
-    # ]
-
-    # # Model/colour legend
-    # model_legend = [
-    #     mlines.Line2D([], [], color=colors[m], marker=markers[m],
-    #                 linestyle='None', label=m)
-    #     for m in models
-    # ]
-
-    # legend1 = ax.legend(handles=style_legend, loc='upper right', frameon=False)
-    # ax.add_artist(legend1)
-    # ax.legend(handles=model_legend, loc='center right', frameon=False)
-
+    
     plt.tight_layout()
     plt.savefig('rmse_comparison.png', dpi=150)
     plt.show()
