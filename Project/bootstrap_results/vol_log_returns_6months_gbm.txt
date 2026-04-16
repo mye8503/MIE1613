@@ -1,0 +1,3003 @@
+{ 'parameters': { 'mu': np.float64(0.2966957891033525),
+                  'sigma': np.float64(0.3791527039693616)}}
+
+{ 'parameters': { 'mu': np.float64(0.27339178259263097),
+                  'sigma': np.float64(0.36143715060526566)}}
+
+{ 'parameters': { 'mu': np.float64(0.2980995984592682),
+                  'sigma': np.float64(0.37468308769275466)}}
+
+{ 'parameters': { 'mu': np.float64(0.193930763838789),
+                  'sigma': np.float64(0.40237188722466444)}}
+
+{ 'parameters': { 'mu': np.float64(0.298502069488652),
+                  'sigma': np.float64(0.37964185645557236)}}
+
+{ 'parameters': { 'mu': np.float64(0.18659959050851158),
+                  'sigma': np.float64(0.3861218262973086)}}
+
+{ 'parameters': { 'mu': np.float64(0.2961311250190149),
+                  'sigma': np.float64(0.3805565298241793)}}
+
+{ 'parameters': { 'mu': np.float64(0.3721456721919329),
+                  'sigma': np.float64(0.3736783448374184)}}
+
+{ 'parameters': { 'mu': np.float64(0.2993284011143867),
+                  'sigma': np.float64(0.38042257323385703)}}
+
+{ 'parameters': { 'mu': np.float64(0.2910443429861743),
+                  'sigma': np.float64(0.3601740327048863)}}
+
+{ 'parameters': { 'mu': np.float64(0.37091933553670964),
+                  'sigma': np.float64(0.3771000361620235)}}
+
+{ 'parameters': { 'mu': np.float64(0.3969068154320127),
+                  'sigma': np.float64(0.3816046213172102)}}
+
+{ 'parameters': { 'mu': np.float64(0.4386396180677235),
+                  'sigma': np.float64(0.37267277393529513)}}
+
+{ 'parameters': { 'mu': np.float64(0.3485703676424207),
+                  'sigma': np.float64(0.38040056500044533)}}
+
+{ 'parameters': { 'mu': np.float64(0.4095075161015487),
+                  'sigma': np.float64(0.3985776544135509)}}
+
+{ 'parameters': { 'mu': np.float64(0.07723343058677062),
+                  'sigma': np.float64(0.38034879243198855)}}
+
+{ 'parameters': { 'mu': np.float64(0.32447555086760277),
+                  'sigma': np.float64(0.3915813935201154)}}
+
+{ 'parameters': { 'mu': np.float64(0.0004976490421892132),
+                  'sigma': np.float64(0.38497315135462196)}}
+
+{ 'parameters': { 'mu': np.float64(0.44176005745865105),
+                  'sigma': np.float64(0.37418349237753634)}}
+
+{ 'parameters': { 'mu': np.float64(0.2665399926281747),
+                  'sigma': np.float64(0.3892814798116071)}}
+
+{ 'parameters': { 'mu': np.float64(0.4599474477744332),
+                  'sigma': np.float64(0.3812740706348526)}}
+
+{ 'parameters': { 'mu': np.float64(0.4894339567637988),
+                  'sigma': np.float64(0.3808099880963375)}}
+
+{ 'parameters': { 'mu': np.float64(0.5308709380157214),
+                  'sigma': np.float64(0.39245333977490104)}}
+
+{ 'parameters': { 'mu': np.float64(0.2913420131910288),
+                  'sigma': np.float64(0.3796553770989559)}}
+
+{ 'parameters': { 'mu': np.float64(0.2902495817356575),
+                  'sigma': np.float64(0.4019802393071119)}}
+
+{ 'parameters': { 'mu': np.float64(0.2549432327487024),
+                  'sigma': np.float64(0.3780122128901717)}}
+
+{ 'parameters': { 'mu': np.float64(0.3367765145803462),
+                  'sigma': np.float64(0.36451160816674216)}}
+
+{ 'parameters': { 'mu': np.float64(0.2665273090210307),
+                  'sigma': np.float64(0.3857947836415378)}}
+
+{ 'parameters': { 'mu': np.float64(0.3845324818004524),
+                  'sigma': np.float64(0.376748867197599)}}
+
+{ 'parameters': { 'mu': np.float64(0.14901772239648745),
+                  'sigma': np.float64(0.3901069122037189)}}
+
+{ 'parameters': { 'mu': np.float64(0.22554928189670764),
+                  'sigma': np.float64(0.36547655602872653)}}
+
+{ 'parameters': { 'mu': np.float64(0.1484612039296119),
+                  'sigma': np.float64(0.38223099580358705)}}
+
+{ 'parameters': { 'mu': np.float64(0.40160538434887066),
+                  'sigma': np.float64(0.3594720275143064)}}
+
+{ 'parameters': { 'mu': np.float64(0.24549074556862965),
+                  'sigma': np.float64(0.3772193298326331)}}
+
+{ 'parameters': { 'mu': np.float64(0.37083575236786737),
+                  'sigma': np.float64(0.3869793164455316)}}
+
+{ 'parameters': { 'mu': np.float64(0.21115178546527816),
+                  'sigma': np.float64(0.39078685970369176)}}
+
+{ 'parameters': { 'mu': np.float64(0.18689228606639843),
+                  'sigma': np.float64(0.37035518589611716)}}
+
+{ 'parameters': { 'mu': np.float64(0.11417601606251593),
+                  'sigma': np.float64(0.3825812695947592)}}
+
+{ 'parameters': { 'mu': np.float64(0.24365723431961672),
+                  'sigma': np.float64(0.37123497609048134)}}
+
+{ 'parameters': { 'mu': np.float64(0.32331004194439816),
+                  'sigma': np.float64(0.36843388504515207)}}
+
+{ 'parameters': { 'mu': np.float64(0.27176959225056463),
+                  'sigma': np.float64(0.3815551981188495)}}
+
+{ 'parameters': { 'mu': np.float64(0.2825604431405774),
+                  'sigma': np.float64(0.38532904817464547)}}
+
+{ 'parameters': { 'mu': np.float64(0.45408879661653956),
+                  'sigma': np.float64(0.396706163595025)}}
+
+{ 'parameters': { 'mu': np.float64(0.3944162407804872),
+                  'sigma': np.float64(0.37656489112000724)}}
+
+{ 'parameters': { 'mu': np.float64(0.3143532852550272),
+                  'sigma': np.float64(0.36965410642344354)}}
+
+{ 'parameters': { 'mu': np.float64(0.3531486202523529),
+                  'sigma': np.float64(0.41495631421683044)}}
+
+{ 'parameters': { 'mu': np.float64(0.22577534187811937),
+                  'sigma': np.float64(0.3616960611002648)}}
+
+{ 'parameters': { 'mu': np.float64(0.42053809032670103),
+                  'sigma': np.float64(0.3603641767373913)}}
+
+{ 'parameters': { 'mu': np.float64(0.3360619108001379),
+                  'sigma': np.float64(0.37565133405931006)}}
+
+{ 'parameters': { 'mu': np.float64(0.47874370239556047),
+                  'sigma': np.float64(0.37265353173045795)}}
+
+{ 'parameters': { 'mu': np.float64(0.2948017342043985),
+                  'sigma': np.float64(0.38495607011399235)}}
+
+{ 'parameters': { 'mu': np.float64(0.3411096003550028),
+                  'sigma': np.float64(0.3783293603921793)}}
+
+{ 'parameters': { 'mu': np.float64(0.3095019936793964),
+                  'sigma': np.float64(0.3587362317092368)}}
+
+{ 'parameters': { 'mu': np.float64(0.3049412058805342),
+                  'sigma': np.float64(0.3810045266797107)}}
+
+{ 'parameters': { 'mu': np.float64(0.3906010054620269),
+                  'sigma': np.float64(0.3756563398699136)}}
+
+{ 'parameters': { 'mu': np.float64(0.35573147118765097),
+                  'sigma': np.float64(0.3818802004934029)}}
+
+{ 'parameters': { 'mu': np.float64(0.28561383873227314),
+                  'sigma': np.float64(0.37818005548602546)}}
+
+{ 'parameters': { 'mu': np.float64(0.31161970416860024),
+                  'sigma': np.float64(0.3770559855780384)}}
+
+{ 'parameters': { 'mu': np.float64(0.37999860606877583),
+                  'sigma': np.float64(0.3782663573391774)}}
+
+{ 'parameters': { 'mu': np.float64(0.22735188512612617),
+                  'sigma': np.float64(0.349046618764802)}}
+
+{ 'parameters': { 'mu': np.float64(0.26307425558448744),
+                  'sigma': np.float64(0.37708102152830014)}}
+
+{ 'parameters': { 'mu': np.float64(0.2278260129712859),
+                  'sigma': np.float64(0.389060247391287)}}
+
+{ 'parameters': { 'mu': np.float64(0.38327668895615996),
+                  'sigma': np.float64(0.3708934607259096)}}
+
+{ 'parameters': { 'mu': np.float64(0.2524014012436594),
+                  'sigma': np.float64(0.38591862060631066)}}
+
+{ 'parameters': { 'mu': np.float64(0.1756445783227905),
+                  'sigma': np.float64(0.3824057617903684)}}
+
+{ 'parameters': { 'mu': np.float64(0.5336094999870179),
+                  'sigma': np.float64(0.3922841094869985)}}
+
+{ 'parameters': { 'mu': np.float64(0.3751992603675141),
+                  'sigma': np.float64(0.3843990268231173)}}
+
+{ 'parameters': { 'mu': np.float64(0.18618038458561695),
+                  'sigma': np.float64(0.3615034188653773)}}
+
+{ 'parameters': { 'mu': np.float64(0.29881647236580133),
+                  'sigma': np.float64(0.3748664183845145)}}
+
+{ 'parameters': { 'mu': np.float64(0.2388286292369976),
+                  'sigma': np.float64(0.3788081565740655)}}
+
+{ 'parameters': { 'mu': np.float64(0.3103410074606402),
+                  'sigma': np.float64(0.3662923672232846)}}
+
+{ 'parameters': { 'mu': np.float64(0.1391710111384198),
+                  'sigma': np.float64(0.377670949281813)}}
+
+{ 'parameters': { 'mu': np.float64(0.19745293046981385),
+                  'sigma': np.float64(0.38609403647412066)}}
+
+{ 'parameters': { 'mu': np.float64(0.1623323028840925),
+                  'sigma': np.float64(0.38034588847258766)}}
+
+{ 'parameters': { 'mu': np.float64(0.15635159408182328),
+                  'sigma': np.float64(0.3838240252235761)}}
+
+{ 'parameters': { 'mu': np.float64(0.3602353857493372),
+                  'sigma': np.float64(0.3638195847389132)}}
+
+{ 'parameters': { 'mu': np.float64(0.4181413025645717),
+                  'sigma': np.float64(0.3815402194720313)}}
+
+{ 'parameters': { 'mu': np.float64(0.33436396612731334),
+                  'sigma': np.float64(0.371966455715231)}}
+
+{ 'parameters': { 'mu': np.float64(0.43411433329837523),
+                  'sigma': np.float64(0.3815002958236407)}}
+
+{ 'parameters': { 'mu': np.float64(0.5533192997203727),
+                  'sigma': np.float64(0.36935420442771894)}}
+
+{ 'parameters': { 'mu': np.float64(0.4207112475409849),
+                  'sigma': np.float64(0.3754989182857173)}}
+
+{ 'parameters': { 'mu': np.float64(0.30112844903490593),
+                  'sigma': np.float64(0.39380800467080357)}}
+
+{ 'parameters': { 'mu': np.float64(0.39372785251474085),
+                  'sigma': np.float64(0.3729009671572243)}}
+
+{ 'parameters': { 'mu': np.float64(0.1872751071848911),
+                  'sigma': np.float64(0.37279955477135274)}}
+
+{ 'parameters': { 'mu': np.float64(0.3432941682232676),
+                  'sigma': np.float64(0.3934022406348322)}}
+
+{ 'parameters': { 'mu': np.float64(0.1267085019155223),
+                  'sigma': np.float64(0.36718248264647424)}}
+
+{ 'parameters': { 'mu': np.float64(0.2825972561938776),
+                  'sigma': np.float64(0.37678026401065556)}}
+
+{ 'parameters': { 'mu': np.float64(0.2566339325992727),
+                  'sigma': np.float64(0.3742021455484398)}}
+
+{ 'parameters': { 'mu': np.float64(0.5307143169453294),
+                  'sigma': np.float64(0.3813517473627144)}}
+
+{ 'parameters': { 'mu': np.float64(0.05822362582640141),
+                  'sigma': np.float64(0.3844084047846314)}}
+
+{ 'parameters': { 'mu': np.float64(0.3910285443913981),
+                  'sigma': np.float64(0.3546293159915003)}}
+
+{ 'parameters': { 'mu': np.float64(0.2536397909201018),
+                  'sigma': np.float64(0.3892700794131895)}}
+
+{ 'parameters': { 'mu': np.float64(0.2350578062275805),
+                  'sigma': np.float64(0.3664481394974968)}}
+
+{ 'parameters': { 'mu': np.float64(0.2082566493268012),
+                  'sigma': np.float64(0.34849622691380644)}}
+
+{ 'parameters': { 'mu': np.float64(0.37872155164989285),
+                  'sigma': np.float64(0.37978382020056073)}}
+
+{ 'parameters': { 'mu': np.float64(0.13189466897673216),
+                  'sigma': np.float64(0.38271421844657577)}}
+
+{ 'parameters': { 'mu': np.float64(0.36941349272372775),
+                  'sigma': np.float64(0.36246343173866835)}}
+
+{ 'parameters': { 'mu': np.float64(0.33143057805190795),
+                  'sigma': np.float64(0.3730442609949327)}}
+
+{ 'parameters': { 'mu': np.float64(0.34646807032055077),
+                  'sigma': np.float64(0.3814527955106211)}}
+
+{ 'parameters': { 'mu': np.float64(0.24424690132690857),
+                  'sigma': np.float64(0.3779116171062802)}}
+
+{ 'parameters': { 'mu': np.float64(0.3053396830599879),
+                  'sigma': np.float64(0.36909454428696725)}}
+
+{ 'parameters': { 'mu': np.float64(0.35674029134338253),
+                  'sigma': np.float64(0.37989282692461196)}}
+
+{ 'parameters': { 'mu': np.float64(0.0028648863661864254),
+                  'sigma': np.float64(0.3905394647502947)}}
+
+{ 'parameters': { 'mu': np.float64(0.2653994175343026),
+                  'sigma': np.float64(0.3637800637037917)}}
+
+{ 'parameters': { 'mu': np.float64(0.25881835569729744),
+                  'sigma': np.float64(0.37721993063960524)}}
+
+{ 'parameters': { 'mu': np.float64(0.33564691683214903),
+                  'sigma': np.float64(0.3713888855206921)}}
+
+{ 'parameters': { 'mu': np.float64(0.23632642950540772),
+                  'sigma': np.float64(0.3926584006649609)}}
+
+{ 'parameters': { 'mu': np.float64(0.20724024088664197),
+                  'sigma': np.float64(0.38046529535611195)}}
+
+{ 'parameters': { 'mu': np.float64(0.3878005587614637),
+                  'sigma': np.float64(0.37465746609353373)}}
+
+{ 'parameters': { 'mu': np.float64(0.1988736233043289),
+                  'sigma': np.float64(0.36025019635741606)}}
+
+{ 'parameters': { 'mu': np.float64(0.4086064273705461),
+                  'sigma': np.float64(0.3610570172444443)}}
+
+{ 'parameters': { 'mu': np.float64(0.3026669835339074),
+                  'sigma': np.float64(0.3654858212134046)}}
+
+{ 'parameters': { 'mu': np.float64(0.1341451716651073),
+                  'sigma': np.float64(0.3731174604947178)}}
+
+{ 'parameters': { 'mu': np.float64(0.5901366940675973),
+                  'sigma': np.float64(0.37599626556169063)}}
+
+{ 'parameters': { 'mu': np.float64(0.31194339285886014),
+                  'sigma': np.float64(0.38498470247086203)}}
+
+{ 'parameters': { 'mu': np.float64(0.3831739805021493),
+                  'sigma': np.float64(0.39184206114322934)}}
+
+{ 'parameters': { 'mu': np.float64(0.42788123874615036),
+                  'sigma': np.float64(0.3564590756670469)}}
+
+{ 'parameters': { 'mu': np.float64(0.4971417356771014),
+                  'sigma': np.float64(0.375578130854258)}}
+
+{ 'parameters': { 'mu': np.float64(0.2145735259826768),
+                  'sigma': np.float64(0.3847433776214527)}}
+
+{ 'parameters': { 'mu': np.float64(0.2658596707436521),
+                  'sigma': np.float64(0.38127378297474473)}}
+
+{ 'parameters': { 'mu': np.float64(0.2315565249102413),
+                  'sigma': np.float64(0.3672531947787583)}}
+
+{ 'parameters': { 'mu': np.float64(0.2622612435533498),
+                  'sigma': np.float64(0.36971807284141656)}}
+
+{ 'parameters': { 'mu': np.float64(0.2231230997938222),
+                  'sigma': np.float64(0.38387713193102363)}}
+
+{ 'parameters': { 'mu': np.float64(0.47611232214290033),
+                  'sigma': np.float64(0.3802221832047406)}}
+
+{ 'parameters': { 'mu': np.float64(0.29578778948377743),
+                  'sigma': np.float64(0.3764654260690349)}}
+
+{ 'parameters': { 'mu': np.float64(0.508230632017755),
+                  'sigma': np.float64(0.4015548043063127)}}
+
+{ 'parameters': { 'mu': np.float64(0.3594700911548632),
+                  'sigma': np.float64(0.38560797845111433)}}
+
+{ 'parameters': { 'mu': np.float64(0.23394743410017765),
+                  'sigma': np.float64(0.37832698160990486)}}
+
+{ 'parameters': { 'mu': np.float64(0.2748506870825212),
+                  'sigma': np.float64(0.3934794657231575)}}
+
+{ 'parameters': { 'mu': np.float64(0.1177260048418185),
+                  'sigma': np.float64(0.3707747857038372)}}
+
+{ 'parameters': { 'mu': np.float64(0.2895812111932516),
+                  'sigma': np.float64(0.385053698976246)}}
+
+{ 'parameters': { 'mu': np.float64(0.13180314705941035),
+                  'sigma': np.float64(0.3801696332056728)}}
+
+{ 'parameters': { 'mu': np.float64(0.28101528477237075),
+                  'sigma': np.float64(0.3678844394389467)}}
+
+{ 'parameters': { 'mu': np.float64(0.2893260667200456),
+                  'sigma': np.float64(0.38506647954819784)}}
+
+{ 'parameters': { 'mu': np.float64(0.5837195154021505),
+                  'sigma': np.float64(0.39796681686114305)}}
+
+{ 'parameters': { 'mu': np.float64(0.2885671053416998),
+                  'sigma': np.float64(0.38891944749673735)}}
+
+{ 'parameters': { 'mu': np.float64(0.26507774214143653),
+                  'sigma': np.float64(0.3855992426963796)}}
+
+{ 'parameters': { 'mu': np.float64(0.4533911964878334),
+                  'sigma': np.float64(0.39140202291658094)}}
+
+{ 'parameters': { 'mu': np.float64(0.23572638125764844),
+                  'sigma': np.float64(0.3878215145226424)}}
+
+{ 'parameters': { 'mu': np.float64(0.44914850153540126),
+                  'sigma': np.float64(0.3890201060846948)}}
+
+{ 'parameters': { 'mu': np.float64(0.35156172413990294),
+                  'sigma': np.float64(0.3736691226320249)}}
+
+{ 'parameters': { 'mu': np.float64(0.3919527362856503),
+                  'sigma': np.float64(0.3887867902623646)}}
+
+{ 'parameters': { 'mu': np.float64(0.30387562006198254),
+                  'sigma': np.float64(0.3631735845494679)}}
+
+{ 'parameters': { 'mu': np.float64(0.40275180450395387),
+                  'sigma': np.float64(0.3792831526666811)}}
+
+{ 'parameters': { 'mu': np.float64(0.3138807693776444),
+                  'sigma': np.float64(0.3717914716048843)}}
+
+{ 'parameters': { 'mu': np.float64(0.08891315481829899),
+                  'sigma': np.float64(0.36914397263246934)}}
+
+{ 'parameters': { 'mu': np.float64(0.11662144810307251),
+                  'sigma': np.float64(0.3653266332975775)}}
+
+{ 'parameters': { 'mu': np.float64(0.3707583619168594),
+                  'sigma': np.float64(0.3498509899648428)}}
+
+{ 'parameters': { 'mu': np.float64(0.34403009888084807),
+                  'sigma': np.float64(0.37690869397027904)}}
+
+{ 'parameters': { 'mu': np.float64(0.5112411687695834),
+                  'sigma': np.float64(0.38672164544248294)}}
+
+{ 'parameters': { 'mu': np.float64(0.12749810869083594),
+                  'sigma': np.float64(0.38162812891460973)}}
+
+{ 'parameters': { 'mu': np.float64(0.2978120681803039),
+                  'sigma': np.float64(0.39400448699294055)}}
+
+{ 'parameters': { 'mu': np.float64(0.3996384459746065),
+                  'sigma': np.float64(0.35465231417902354)}}
+
+{ 'parameters': { 'mu': np.float64(0.3405112291118542),
+                  'sigma': np.float64(0.36838914560459407)}}
+
+{ 'parameters': { 'mu': np.float64(0.2720325955238077),
+                  'sigma': np.float64(0.3607182064055551)}}
+
+{ 'parameters': { 'mu': np.float64(0.2351091577734238),
+                  'sigma': np.float64(0.3539469178177403)}}
+
+{ 'parameters': { 'mu': np.float64(0.2990353119132394),
+                  'sigma': np.float64(0.383516234000884)}}
+
+{ 'parameters': { 'mu': np.float64(0.3850472335712546),
+                  'sigma': np.float64(0.39346339681203374)}}
+
+{ 'parameters': { 'mu': np.float64(0.37467794090185624),
+                  'sigma': np.float64(0.3958680936859863)}}
+
+{ 'parameters': { 'mu': np.float64(0.48076080856693126),
+                  'sigma': np.float64(0.36328600552971085)}}
+
+{ 'parameters': { 'mu': np.float64(0.3615841097389878),
+                  'sigma': np.float64(0.4192287694652737)}}
+
+{ 'parameters': { 'mu': np.float64(0.3022073768566657),
+                  'sigma': np.float64(0.39096064561960975)}}
+
+{ 'parameters': { 'mu': np.float64(0.20073134779473054),
+                  'sigma': np.float64(0.3871820070401442)}}
+
+{ 'parameters': { 'mu': np.float64(0.19622909201204491),
+                  'sigma': np.float64(0.3717729295555593)}}
+
+{ 'parameters': { 'mu': np.float64(0.3373877151338057),
+                  'sigma': np.float64(0.38073092328864994)}}
+
+{ 'parameters': { 'mu': np.float64(0.24237176035535346),
+                  'sigma': np.float64(0.39309056553843463)}}
+
+{ 'parameters': { 'mu': np.float64(0.42903689873345974),
+                  'sigma': np.float64(0.38899442114242305)}}
+
+{ 'parameters': { 'mu': np.float64(0.1748816115251276),
+                  'sigma': np.float64(0.3721874850878064)}}
+
+{ 'parameters': { 'mu': np.float64(0.21182745194653274),
+                  'sigma': np.float64(0.3740314714715823)}}
+
+{ 'parameters': { 'mu': np.float64(0.4198730906311283),
+                  'sigma': np.float64(0.38917345380781493)}}
+
+{ 'parameters': { 'mu': np.float64(0.32526324762630027),
+                  'sigma': np.float64(0.3789580153674902)}}
+
+{ 'parameters': { 'mu': np.float64(0.35181490695314194),
+                  'sigma': np.float64(0.39506835396135226)}}
+
+{ 'parameters': { 'mu': np.float64(0.4752058660094389),
+                  'sigma': np.float64(0.38133609102636395)}}
+
+{ 'parameters': { 'mu': np.float64(0.22105345803905763),
+                  'sigma': np.float64(0.38667885922164086)}}
+
+{ 'parameters': { 'mu': np.float64(0.35317591716263913),
+                  'sigma': np.float64(0.37270045911067035)}}
+
+{ 'parameters': { 'mu': np.float64(0.48685327223027364),
+                  'sigma': np.float64(0.3816469834575871)}}
+
+{ 'parameters': { 'mu': np.float64(0.3263349173303026),
+                  'sigma': np.float64(0.36798805961960496)}}
+
+{ 'parameters': { 'mu': np.float64(0.07585749775101015),
+                  'sigma': np.float64(0.38405615219796513)}}
+
+{ 'parameters': { 'mu': np.float64(0.3299892647559849),
+                  'sigma': np.float64(0.38757478955174185)}}
+
+{ 'parameters': { 'mu': np.float64(0.2769603086485442),
+                  'sigma': np.float64(0.3816767316005038)}}
+
+{ 'parameters': { 'mu': np.float64(0.13397386470200126),
+                  'sigma': np.float64(0.38674677519144474)}}
+
+{ 'parameters': { 'mu': np.float64(0.012051075042283102),
+                  'sigma': np.float64(0.3838907473504454)}}
+
+{ 'parameters': { 'mu': np.float64(0.4133940605376186),
+                  'sigma': np.float64(0.3825165732920434)}}
+
+{ 'parameters': { 'mu': np.float64(0.27311672269782417),
+                  'sigma': np.float64(0.3711701047149214)}}
+
+{ 'parameters': { 'mu': np.float64(0.49044027826835884),
+                  'sigma': np.float64(0.37869378350033445)}}
+
+{ 'parameters': { 'mu': np.float64(0.3411853954037397),
+                  'sigma': np.float64(0.37301932706156166)}}
+
+{ 'parameters': { 'mu': np.float64(0.5023458421145195),
+                  'sigma': np.float64(0.3766852611368775)}}
+
+{ 'parameters': { 'mu': np.float64(0.21227153673498633),
+                  'sigma': np.float64(0.3758656539120983)}}
+
+{ 'parameters': { 'mu': np.float64(0.3166015955941386),
+                  'sigma': np.float64(0.3948513434254519)}}
+
+{ 'parameters': { 'mu': np.float64(0.4023939740353492),
+                  'sigma': np.float64(0.38494533723392366)}}
+
+{ 'parameters': { 'mu': np.float64(0.1198485618772411),
+                  'sigma': np.float64(0.3877155818001636)}}
+
+{ 'parameters': { 'mu': np.float64(0.35150747808698823),
+                  'sigma': np.float64(0.3601722885635113)}}
+
+{ 'parameters': { 'mu': np.float64(0.15030536180999593),
+                  'sigma': np.float64(0.3774580444268117)}}
+
+{ 'parameters': { 'mu': np.float64(0.286446961520755),
+                  'sigma': np.float64(0.36463876903686543)}}
+
+{ 'parameters': { 'mu': np.float64(0.3673817347462075),
+                  'sigma': np.float64(0.374544696017953)}}
+
+{ 'parameters': { 'mu': np.float64(0.49500422232032104),
+                  'sigma': np.float64(0.36774625269130684)}}
+
+{ 'parameters': { 'mu': np.float64(0.1792892102615426),
+                  'sigma': np.float64(0.3767335294340204)}}
+
+{ 'parameters': { 'mu': np.float64(0.41674863575191845),
+                  'sigma': np.float64(0.3843415068135974)}}
+
+{ 'parameters': { 'mu': np.float64(0.3952614446214532),
+                  'sigma': np.float64(0.3626670035391718)}}
+
+{ 'parameters': { 'mu': np.float64(0.31881800912028546),
+                  'sigma': np.float64(0.35000404014223124)}}
+
+{ 'parameters': { 'mu': np.float64(0.5226759309432445),
+                  'sigma': np.float64(0.39524868993580775)}}
+
+{ 'parameters': { 'mu': np.float64(0.20302473864309567),
+                  'sigma': np.float64(0.3804153916398958)}}
+
+{ 'parameters': { 'mu': np.float64(0.21568346366515162),
+                  'sigma': np.float64(0.3714791454284242)}}
+
+{ 'parameters': { 'mu': np.float64(0.3972743423956681),
+                  'sigma': np.float64(0.3689951648080919)}}
+
+{ 'parameters': { 'mu': np.float64(0.19026206396367845),
+                  'sigma': np.float64(0.3808975013478714)}}
+
+{ 'parameters': { 'mu': np.float64(0.3893001769310478),
+                  'sigma': np.float64(0.3748401224595121)}}
+
+{ 'parameters': { 'mu': np.float64(0.18164593675273302),
+                  'sigma': np.float64(0.40192828669290587)}}
+
+{ 'parameters': { 'mu': np.float64(0.4768287650365161),
+                  'sigma': np.float64(0.3822343566067622)}}
+
+{ 'parameters': { 'mu': np.float64(0.2574925168391281),
+                  'sigma': np.float64(0.3790914885789326)}}
+
+{ 'parameters': { 'mu': np.float64(0.4172291960969861),
+                  'sigma': np.float64(0.3608542619715583)}}
+
+{ 'parameters': { 'mu': np.float64(0.2398086073512083),
+                  'sigma': np.float64(0.36969780435839766)}}
+
+{ 'parameters': { 'mu': np.float64(0.18282677410188042),
+                  'sigma': np.float64(0.3784047349477146)}}
+
+{ 'parameters': { 'mu': np.float64(0.21107452293204546),
+                  'sigma': np.float64(0.35507455510818237)}}
+
+{ 'parameters': { 'mu': np.float64(0.27486875933728006),
+                  'sigma': np.float64(0.3806255785572002)}}
+
+{ 'parameters': { 'mu': np.float64(0.2462035137325749),
+                  'sigma': np.float64(0.35715542929804356)}}
+
+{ 'parameters': { 'mu': np.float64(0.3961692165591212),
+                  'sigma': np.float64(0.37718550295598346)}}
+
+{ 'parameters': { 'mu': np.float64(0.2730502508431557),
+                  'sigma': np.float64(0.3735933795805374)}}
+
+{ 'parameters': { 'mu': np.float64(0.2352929439547779),
+                  'sigma': np.float64(0.37253811665340525)}}
+
+{ 'parameters': { 'mu': np.float64(0.5288264122821914),
+                  'sigma': np.float64(0.37989307829328395)}}
+
+{ 'parameters': { 'mu': np.float64(0.29702116704813225),
+                  'sigma': np.float64(0.3765265796024996)}}
+
+{ 'parameters': { 'mu': np.float64(0.382439436420728),
+                  'sigma': np.float64(0.3829736053467576)}}
+
+{ 'parameters': { 'mu': np.float64(0.3304871661818133),
+                  'sigma': np.float64(0.3626108969466945)}}
+
+{ 'parameters': { 'mu': np.float64(0.3950733153944148),
+                  'sigma': np.float64(0.37474997640128027)}}
+
+{ 'parameters': { 'mu': np.float64(0.3578518616606683),
+                  'sigma': np.float64(0.3541109741498762)}}
+
+{ 'parameters': { 'mu': np.float64(0.4980076183138129),
+                  'sigma': np.float64(0.37681573324977086)}}
+
+{ 'parameters': { 'mu': np.float64(0.3307126115754143),
+                  'sigma': np.float64(0.3860078527737524)}}
+
+{ 'parameters': { 'mu': np.float64(0.25935960495413934),
+                  'sigma': np.float64(0.37363729023484604)}}
+
+{ 'parameters': { 'mu': np.float64(0.27189292376350993),
+                  'sigma': np.float64(0.38267617402069504)}}
+
+{ 'parameters': { 'mu': np.float64(0.27708132605365743),
+                  'sigma': np.float64(0.3778196645227544)}}
+
+{ 'parameters': { 'mu': np.float64(0.15802734928246928),
+                  'sigma': np.float64(0.36804877894581106)}}
+
+{ 'parameters': { 'mu': np.float64(0.2001233357542403),
+                  'sigma': np.float64(0.37401861606056386)}}
+
+{ 'parameters': { 'mu': np.float64(0.01722814345816283),
+                  'sigma': np.float64(0.3608010496066224)}}
+
+{ 'parameters': { 'mu': np.float64(0.31285493837595724),
+                  'sigma': np.float64(0.36767776161110455)}}
+
+{ 'parameters': { 'mu': np.float64(0.4886586578022847),
+                  'sigma': np.float64(0.4084730522641508)}}
+
+{ 'parameters': { 'mu': np.float64(0.297193279024623),
+                  'sigma': np.float64(0.36457991295220454)}}
+
+{ 'parameters': { 'mu': np.float64(0.3046570029576664),
+                  'sigma': np.float64(0.39098038260384116)}}
+
+{ 'parameters': { 'mu': np.float64(0.2746254126147874),
+                  'sigma': np.float64(0.3621317371851455)}}
+
+{ 'parameters': { 'mu': np.float64(0.3424823325555897),
+                  'sigma': np.float64(0.37977584870071873)}}
+
+{ 'parameters': { 'mu': np.float64(0.1980669318126473),
+                  'sigma': np.float64(0.39094121307458496)}}
+
+{ 'parameters': { 'mu': np.float64(0.34795152251685324),
+                  'sigma': np.float64(0.392091651478639)}}
+
+{ 'parameters': { 'mu': np.float64(0.4138184779820366),
+                  'sigma': np.float64(0.37992154099132036)}}
+
+{ 'parameters': { 'mu': np.float64(0.22001267163926408),
+                  'sigma': np.float64(0.3821828359282611)}}
+
+{ 'parameters': { 'mu': np.float64(0.2470891927758982),
+                  'sigma': np.float64(0.3750192624763042)}}
+
+{ 'parameters': { 'mu': np.float64(0.4215572904843364),
+                  'sigma': np.float64(0.4005321542089726)}}
+
+{ 'parameters': { 'mu': np.float64(0.21163032344096694),
+                  'sigma': np.float64(0.38950417180704683)}}
+
+{ 'parameters': { 'mu': np.float64(0.47435944513969164),
+                  'sigma': np.float64(0.3755150896327121)}}
+
+{ 'parameters': { 'mu': np.float64(0.32154802928046594),
+                  'sigma': np.float64(0.39980087498609973)}}
+
+{ 'parameters': { 'mu': np.float64(0.2825129251250476),
+                  'sigma': np.float64(0.37155007362768977)}}
+
+{ 'parameters': { 'mu': np.float64(0.19211733703427386),
+                  'sigma': np.float64(0.3733309057187962)}}
+
+{ 'parameters': { 'mu': np.float64(0.23940064034452752),
+                  'sigma': np.float64(0.3729742138668504)}}
+
+{ 'parameters': { 'mu': np.float64(0.5983402548214277),
+                  'sigma': np.float64(0.3796040528265587)}}
+
+{ 'parameters': { 'mu': np.float64(0.2516850811258417),
+                  'sigma': np.float64(0.37269370330148754)}}
+
+{ 'parameters': { 'mu': np.float64(0.27796770015806976),
+                  'sigma': np.float64(0.35423640127436173)}}
+
+{ 'parameters': { 'mu': np.float64(0.11533065581639312),
+                  'sigma': np.float64(0.36927313607604073)}}
+
+{ 'parameters': { 'mu': np.float64(0.2012003668643475),
+                  'sigma': np.float64(0.39202330181233636)}}
+
+{ 'parameters': { 'mu': np.float64(0.29462627229626415),
+                  'sigma': np.float64(0.3917740497888203)}}
+
+{ 'parameters': { 'mu': np.float64(0.24151985323737946),
+                  'sigma': np.float64(0.3618043081941865)}}
+
+{ 'parameters': { 'mu': np.float64(0.28516046934522377),
+                  'sigma': np.float64(0.38033597823465426)}}
+
+{ 'parameters': { 'mu': np.float64(0.3001266257041366),
+                  'sigma': np.float64(0.3802539074140191)}}
+
+{ 'parameters': { 'mu': np.float64(0.11156661153757011),
+                  'sigma': np.float64(0.3974038905170867)}}
+
+{ 'parameters': { 'mu': np.float64(0.292630258718346),
+                  'sigma': np.float64(0.39012492439963575)}}
+
+{ 'parameters': { 'mu': np.float64(0.2256415895695545),
+                  'sigma': np.float64(0.3861216912583694)}}
+
+{ 'parameters': { 'mu': np.float64(0.4030467612548817),
+                  'sigma': np.float64(0.37349319116530194)}}
+
+{ 'parameters': { 'mu': np.float64(0.34917802362597167),
+                  'sigma': np.float64(0.37084332646074497)}}
+
+{ 'parameters': { 'mu': np.float64(0.25565370440899843),
+                  'sigma': np.float64(0.3618603212972423)}}
+
+{ 'parameters': { 'mu': np.float64(0.3748584828343007),
+                  'sigma': np.float64(0.3802463122457411)}}
+
+{ 'parameters': { 'mu': np.float64(0.2784270908847237),
+                  'sigma': np.float64(0.40355312336737376)}}
+
+{ 'parameters': { 'mu': np.float64(0.13673990008545855),
+                  'sigma': np.float64(0.3842426578899792)}}
+
+{ 'parameters': { 'mu': np.float64(0.3176330222522662),
+                  'sigma': np.float64(0.34878991003949805)}}
+
+{ 'parameters': { 'mu': np.float64(0.42116168372180435),
+                  'sigma': np.float64(0.3771043308403784)}}
+
+{ 'parameters': { 'mu': np.float64(0.17504935104467867),
+                  'sigma': np.float64(0.3616590477347804)}}
+
+{ 'parameters': { 'mu': np.float64(0.18978833879509766),
+                  'sigma': np.float64(0.38755877593716215)}}
+
+{ 'parameters': { 'mu': np.float64(0.28060495666871327),
+                  'sigma': np.float64(0.3910199047879501)}}
+
+{ 'parameters': { 'mu': np.float64(0.3740384599632647),
+                  'sigma': np.float64(0.3840870547767296)}}
+
+{ 'parameters': { 'mu': np.float64(0.326941503064932),
+                  'sigma': np.float64(0.3718379351247614)}}
+
+{ 'parameters': { 'mu': np.float64(0.29024796823506754),
+                  'sigma': np.float64(0.3844254347668466)}}
+
+{ 'parameters': { 'mu': np.float64(0.18549035787863813),
+                  'sigma': np.float64(0.3840373235592592)}}
+
+{ 'parameters': { 'mu': np.float64(0.3426396926575398),
+                  'sigma': np.float64(0.3746845158554382)}}
+
+{ 'parameters': { 'mu': np.float64(0.18196939503760434),
+                  'sigma': np.float64(0.3884427823187042)}}
+
+{ 'parameters': { 'mu': np.float64(0.2652571797918357),
+                  'sigma': np.float64(0.3760081063264886)}}
+
+{ 'parameters': { 'mu': np.float64(0.2503012300769243),
+                  'sigma': np.float64(0.38238999535916873)}}
+
+{ 'parameters': { 'mu': np.float64(0.3517846379384464),
+                  'sigma': np.float64(0.3901413523907561)}}
+
+{ 'parameters': { 'mu': np.float64(0.25891785667299994),
+                  'sigma': np.float64(0.3680955901913159)}}
+
+{ 'parameters': { 'mu': np.float64(0.08235984977698058),
+                  'sigma': np.float64(0.36657791885311897)}}
+
+{ 'parameters': { 'mu': np.float64(0.39135390062851816),
+                  'sigma': np.float64(0.3965233167923958)}}
+
+{ 'parameters': { 'mu': np.float64(0.4327777176137773),
+                  'sigma': np.float64(0.35544099039586746)}}
+
+{ 'parameters': { 'mu': np.float64(0.2621506214191438),
+                  'sigma': np.float64(0.36688469975448257)}}
+
+{ 'parameters': { 'mu': np.float64(0.5268938577413322),
+                  'sigma': np.float64(0.38281580499632323)}}
+
+{ 'parameters': { 'mu': np.float64(0.35516260069186567),
+                  'sigma': np.float64(0.37500189315278976)}}
+
+{ 'parameters': { 'mu': np.float64(0.20300904684346105),
+                  'sigma': np.float64(0.3839982778008325)}}
+
+{ 'parameters': { 'mu': np.float64(0.3029549602204734),
+                  'sigma': np.float64(0.38235598721283137)}}
+
+{ 'parameters': { 'mu': np.float64(0.2685454484751638),
+                  'sigma': np.float64(0.375941771733702)}}
+
+{ 'parameters': { 'mu': np.float64(0.26151424603901935),
+                  'sigma': np.float64(0.37926040391985)}}
+
+{ 'parameters': { 'mu': np.float64(0.17971837622826153),
+                  'sigma': np.float64(0.3792024601088434)}}
+
+{ 'parameters': { 'mu': np.float64(0.40397353246657863),
+                  'sigma': np.float64(0.39415632868037953)}}
+
+{ 'parameters': { 'mu': np.float64(0.2950566223166675),
+                  'sigma': np.float64(0.3900619089066046)}}
+
+{ 'parameters': { 'mu': np.float64(0.24558292327605535),
+                  'sigma': np.float64(0.388268569649802)}}
+
+{ 'parameters': { 'mu': np.float64(0.3734164161383815),
+                  'sigma': np.float64(0.36438926876286903)}}
+
+{ 'parameters': { 'mu': np.float64(0.3787849462437155),
+                  'sigma': np.float64(0.3956932608884706)}}
+
+{ 'parameters': { 'mu': np.float64(0.23060097076859165),
+                  'sigma': np.float64(0.3601870485496761)}}
+
+{ 'parameters': { 'mu': np.float64(0.3601507243121418),
+                  'sigma': np.float64(0.3643098026696157)}}
+
+{ 'parameters': { 'mu': np.float64(0.4515192378000955),
+                  'sigma': np.float64(0.3802484955275615)}}
+
+{ 'parameters': { 'mu': np.float64(0.2640928627781276),
+                  'sigma': np.float64(0.37155803841982293)}}
+
+{ 'parameters': { 'mu': np.float64(0.29795446924269947),
+                  'sigma': np.float64(0.36576188642259805)}}
+
+{ 'parameters': { 'mu': np.float64(0.32723800209866455),
+                  'sigma': np.float64(0.3684965808715683)}}
+
+{ 'parameters': { 'mu': np.float64(0.44435895299179584),
+                  'sigma': np.float64(0.3956992962200391)}}
+
+{ 'parameters': { 'mu': np.float64(0.4175477039485809),
+                  'sigma': np.float64(0.38757911892014546)}}
+
+{ 'parameters': { 'mu': np.float64(0.3132821117165666),
+                  'sigma': np.float64(0.38156467331287436)}}
+
+{ 'parameters': { 'mu': np.float64(0.07712635724622072),
+                  'sigma': np.float64(0.36865561801432833)}}
+
+{ 'parameters': { 'mu': np.float64(0.409212630814877),
+                  'sigma': np.float64(0.39341895733759724)}}
+
+{ 'parameters': { 'mu': np.float64(0.22268643591964105),
+                  'sigma': np.float64(0.3725096768012138)}}
+
+{ 'parameters': { 'mu': np.float64(0.3305999824491056),
+                  'sigma': np.float64(0.3952030637635598)}}
+
+{ 'parameters': { 'mu': np.float64(0.26147414741079367),
+                  'sigma': np.float64(0.3624592159839214)}}
+
+{ 'parameters': { 'mu': np.float64(0.26771705006085916),
+                  'sigma': np.float64(0.36824508199008305)}}
+
+{ 'parameters': { 'mu': np.float64(0.30647564119684423),
+                  'sigma': np.float64(0.3737591879367678)}}
+
+{ 'parameters': { 'mu': np.float64(0.1718547092643779),
+                  'sigma': np.float64(0.38450851095087735)}}
+
+{ 'parameters': { 'mu': np.float64(0.3530994399778157),
+                  'sigma': np.float64(0.37015596037474496)}}
+
+{ 'parameters': { 'mu': np.float64(0.2716676254697554),
+                  'sigma': np.float64(0.3816323444601318)}}
+
+{ 'parameters': { 'mu': np.float64(0.21981539416332607),
+                  'sigma': np.float64(0.364022673310985)}}
+
+{ 'parameters': { 'mu': np.float64(0.4242020370708529),
+                  'sigma': np.float64(0.37041704606690845)}}
+
+{ 'parameters': { 'mu': np.float64(0.41928011319171626),
+                  'sigma': np.float64(0.3828734110593818)}}
+
+{ 'parameters': { 'mu': np.float64(0.3231455172554867),
+                  'sigma': np.float64(0.41186438093798605)}}
+
+{ 'parameters': { 'mu': np.float64(0.2839260437217101),
+                  'sigma': np.float64(0.3870787295722575)}}
+
+{ 'parameters': { 'mu': np.float64(0.32927351968574126),
+                  'sigma': np.float64(0.3859204710890001)}}
+
+{ 'parameters': { 'mu': np.float64(0.30732279007500485),
+                  'sigma': np.float64(0.37292862485749445)}}
+
+{ 'parameters': { 'mu': np.float64(0.08165132221709577),
+                  'sigma': np.float64(0.3659347652870705)}}
+
+{ 'parameters': { 'mu': np.float64(0.1912309102074056),
+                  'sigma': np.float64(0.39038886422458163)}}
+
+{ 'parameters': { 'mu': np.float64(0.18786887828201018),
+                  'sigma': np.float64(0.3678775857898866)}}
+
+{ 'parameters': { 'mu': np.float64(0.2529331254987503),
+                  'sigma': np.float64(0.35820766830858447)}}
+
+{ 'parameters': { 'mu': np.float64(0.25879129462774964),
+                  'sigma': np.float64(0.36222663794330684)}}
+
+{ 'parameters': { 'mu': np.float64(0.38252396531880084),
+                  'sigma': np.float64(0.3641987763241765)}}
+
+{ 'parameters': { 'mu': np.float64(0.29733684743057687),
+                  'sigma': np.float64(0.3765266025766501)}}
+
+{ 'parameters': { 'mu': np.float64(0.294943268467015),
+                  'sigma': np.float64(0.3755265348170744)}}
+
+{ 'parameters': { 'mu': np.float64(0.10830742990504696),
+                  'sigma': np.float64(0.35571616680746376)}}
+
+{ 'parameters': { 'mu': np.float64(0.2711033187564939),
+                  'sigma': np.float64(0.3965037283707799)}}
+
+{ 'parameters': { 'mu': np.float64(0.2660151771360368),
+                  'sigma': np.float64(0.3673053412978506)}}
+
+{ 'parameters': { 'mu': np.float64(0.34319892180901956),
+                  'sigma': np.float64(0.3688014682288482)}}
+
+{ 'parameters': { 'mu': np.float64(0.4744862688035549),
+                  'sigma': np.float64(0.40205313899635947)}}
+
+{ 'parameters': { 'mu': np.float64(0.420771391787144),
+                  'sigma': np.float64(0.3902795616814636)}}
+
+{ 'parameters': { 'mu': np.float64(0.2911695107629363),
+                  'sigma': np.float64(0.3836056964536443)}}
+
+{ 'parameters': { 'mu': np.float64(0.36003740304792214),
+                  'sigma': np.float64(0.39562618847219916)}}
+
+{ 'parameters': { 'mu': np.float64(0.4363270742280516),
+                  'sigma': np.float64(0.37394410999318956)}}
+
+{ 'parameters': { 'mu': np.float64(0.34823142383379463),
+                  'sigma': np.float64(0.36602403348877227)}}
+
+{ 'parameters': { 'mu': np.float64(0.5068908097325214),
+                  'sigma': np.float64(0.3894119288566741)}}
+
+{ 'parameters': { 'mu': np.float64(0.3954146368160709),
+                  'sigma': np.float64(0.3740357670414518)}}
+
+{ 'parameters': { 'mu': np.float64(0.34268730588714597),
+                  'sigma': np.float64(0.3720975210335113)}}
+
+{ 'parameters': { 'mu': np.float64(0.23683879431481047),
+                  'sigma': np.float64(0.3480285784494195)}}
+
+{ 'parameters': { 'mu': np.float64(0.2997346595896635),
+                  'sigma': np.float64(0.38023643204664787)}}
+
+{ 'parameters': { 'mu': np.float64(0.2628513061839421),
+                  'sigma': np.float64(0.38714769358600815)}}
+
+{ 'parameters': { 'mu': np.float64(0.14064411416959688),
+                  'sigma': np.float64(0.37241052696006943)}}
+
+{ 'parameters': { 'mu': np.float64(0.2899019348063412),
+                  'sigma': np.float64(0.3696537880659342)}}
+
+{ 'parameters': { 'mu': np.float64(0.20567124318505198),
+                  'sigma': np.float64(0.38617106655696853)}}
+
+{ 'parameters': { 'mu': np.float64(0.39498366916514677),
+                  'sigma': np.float64(0.38864335796066796)}}
+
+{ 'parameters': { 'mu': np.float64(0.20975596464702764),
+                  'sigma': np.float64(0.36257219208062774)}}
+
+{ 'parameters': { 'mu': np.float64(0.21475646375850999),
+                  'sigma': np.float64(0.37032044582430523)}}
+
+{ 'parameters': { 'mu': np.float64(-0.023109979870369765),
+                  'sigma': np.float64(0.3690963791507289)}}
+
+{ 'parameters': { 'mu': np.float64(0.38391046052332733),
+                  'sigma': np.float64(0.36418166689672044)}}
+
+{ 'parameters': { 'mu': np.float64(0.06060404929820813),
+                  'sigma': np.float64(0.37990422518139183)}}
+
+{ 'parameters': { 'mu': np.float64(0.31015492391425287),
+                  'sigma': np.float64(0.39484287481739766)}}
+
+{ 'parameters': { 'mu': np.float64(0.1501518918197128),
+                  'sigma': np.float64(0.38104953494001886)}}
+
+{ 'parameters': { 'mu': np.float64(0.4373141977993142),
+                  'sigma': np.float64(0.3905549033116167)}}
+
+{ 'parameters': { 'mu': np.float64(0.33794140136508555),
+                  'sigma': np.float64(0.38447018961734253)}}
+
+{ 'parameters': { 'mu': np.float64(0.32963520306240895),
+                  'sigma': np.float64(0.3725149850227978)}}
+
+{ 'parameters': { 'mu': np.float64(0.3786379874916953),
+                  'sigma': np.float64(0.3833965521188849)}}
+
+{ 'parameters': { 'mu': np.float64(0.21130184470231),
+                  'sigma': np.float64(0.3790443850169056)}}
+
+{ 'parameters': { 'mu': np.float64(0.3467291538588656),
+                  'sigma': np.float64(0.39081493803743)}}
+
+{ 'parameters': { 'mu': np.float64(0.2997695563791983),
+                  'sigma': np.float64(0.38864520898235966)}}
+
+{ 'parameters': { 'mu': np.float64(0.453892581434873),
+                  'sigma': np.float64(0.343304487192334)}}
+
+{ 'parameters': { 'mu': np.float64(0.28135648532302604),
+                  'sigma': np.float64(0.3758398200790927)}}
+
+{ 'parameters': { 'mu': np.float64(0.30477997401710355),
+                  'sigma': np.float64(0.3857424884569254)}}
+
+{ 'parameters': { 'mu': np.float64(0.21259028163928448),
+                  'sigma': np.float64(0.3723456601102019)}}
+
+{ 'parameters': { 'mu': np.float64(0.48466214707326005),
+                  'sigma': np.float64(0.36367320218971755)}}
+
+{ 'parameters': { 'mu': np.float64(0.3309466430150547),
+                  'sigma': np.float64(0.38456317794693357)}}
+
+{ 'parameters': { 'mu': np.float64(0.11276729318001245),
+                  'sigma': np.float64(0.38044438103455047)}}
+
+{ 'parameters': { 'mu': np.float64(0.3425052311473313),
+                  'sigma': np.float64(0.38663970354443494)}}
+
+{ 'parameters': { 'mu': np.float64(0.401398996510131),
+                  'sigma': np.float64(0.3850044065093286)}}
+
+{ 'parameters': { 'mu': np.float64(0.2496794084963967),
+                  'sigma': np.float64(0.36369152816035244)}}
+
+{ 'parameters': { 'mu': np.float64(0.09509199765790233),
+                  'sigma': np.float64(0.3698813197052318)}}
+
+{ 'parameters': { 'mu': np.float64(0.37515492303472275),
+                  'sigma': np.float64(0.3714241655401237)}}
+
+{ 'parameters': { 'mu': np.float64(0.11159346620997711),
+                  'sigma': np.float64(0.3811293393483553)}}
+
+{ 'parameters': { 'mu': np.float64(0.09650752127370832),
+                  'sigma': np.float64(0.3849079371282578)}}
+
+{ 'parameters': { 'mu': np.float64(0.3753797530923182),
+                  'sigma': np.float64(0.3941975576765928)}}
+
+{ 'parameters': { 'mu': np.float64(0.2143990427503514),
+                  'sigma': np.float64(0.3756375818817796)}}
+
+{ 'parameters': { 'mu': np.float64(0.4451459016099877),
+                  'sigma': np.float64(0.3727344823136729)}}
+
+{ 'parameters': { 'mu': np.float64(0.5157896586895899),
+                  'sigma': np.float64(0.38648044141602556)}}
+
+{ 'parameters': { 'mu': np.float64(0.23450399148169102),
+                  'sigma': np.float64(0.37075856644099625)}}
+
+{ 'parameters': { 'mu': np.float64(0.4147054259567063),
+                  'sigma': np.float64(0.4014705898116319)}}
+
+{ 'parameters': { 'mu': np.float64(0.4022712890296961),
+                  'sigma': np.float64(0.3763751923144979)}}
+
+{ 'parameters': { 'mu': np.float64(0.4391549394822329),
+                  'sigma': np.float64(0.3653205496724847)}}
+
+{ 'parameters': { 'mu': np.float64(0.41198111245088187),
+                  'sigma': np.float64(0.3872398216930462)}}
+
+{ 'parameters': { 'mu': np.float64(0.3879834888714506),
+                  'sigma': np.float64(0.3748416241171173)}}
+
+{ 'parameters': { 'mu': np.float64(0.1824416247467919),
+                  'sigma': np.float64(0.3911387024756764)}}
+
+{ 'parameters': { 'mu': np.float64(0.31872977340542535),
+                  'sigma': np.float64(0.3754500800203376)}}
+
+{ 'parameters': { 'mu': np.float64(-0.022965803525952358),
+                  'sigma': np.float64(0.3715394062735425)}}
+
+{ 'parameters': { 'mu': np.float64(0.39464026199397995),
+                  'sigma': np.float64(0.39502211308092117)}}
+
+{ 'parameters': { 'mu': np.float64(0.3462912126231688),
+                  'sigma': np.float64(0.38157484663110436)}}
+
+{ 'parameters': { 'mu': np.float64(0.36430121015121275),
+                  'sigma': np.float64(0.3756091928191726)}}
+
+{ 'parameters': { 'mu': np.float64(0.39081412276654703),
+                  'sigma': np.float64(0.3870434683644085)}}
+
+{ 'parameters': { 'mu': np.float64(0.3128950253295206),
+                  'sigma': np.float64(0.3721709906770076)}}
+
+{ 'parameters': { 'mu': np.float64(0.23144168685682073),
+                  'sigma': np.float64(0.3920414408654424)}}
+
+{ 'parameters': { 'mu': np.float64(0.21591486473009025),
+                  'sigma': np.float64(0.3613193229294483)}}
+
+{ 'parameters': { 'mu': np.float64(0.2972995203079142),
+                  'sigma': np.float64(0.3888024264778733)}}
+
+{ 'parameters': { 'mu': np.float64(0.3755375174612442),
+                  'sigma': np.float64(0.3858799239335859)}}
+
+{ 'parameters': { 'mu': np.float64(0.3560196956056108),
+                  'sigma': np.float64(0.37752962918408506)}}
+
+{ 'parameters': { 'mu': np.float64(0.4165118304503069),
+                  'sigma': np.float64(0.3671030990171204)}}
+
+{ 'parameters': { 'mu': np.float64(0.4438277786710676),
+                  'sigma': np.float64(0.3648460711303437)}}
+
+{ 'parameters': { 'mu': np.float64(0.15547230439079407),
+                  'sigma': np.float64(0.373896636031854)}}
+
+{ 'parameters': { 'mu': np.float64(0.24484321271397486),
+                  'sigma': np.float64(0.36888479804460367)}}
+
+{ 'parameters': { 'mu': np.float64(0.2212182044234619),
+                  'sigma': np.float64(0.3742207483454374)}}
+
+{ 'parameters': { 'mu': np.float64(0.22319680090969218),
+                  'sigma': np.float64(0.3794742278401848)}}
+
+{ 'parameters': { 'mu': np.float64(0.14100648013919745),
+                  'sigma': np.float64(0.4009434797042577)}}
+
+{ 'parameters': { 'mu': np.float64(0.2609441735135757),
+                  'sigma': np.float64(0.3744229981048137)}}
+
+{ 'parameters': { 'mu': np.float64(0.3621534334356118),
+                  'sigma': np.float64(0.38661392856938764)}}
+
+{ 'parameters': { 'mu': np.float64(0.0855915804570755),
+                  'sigma': np.float64(0.3579812076346356)}}
+
+{ 'parameters': { 'mu': np.float64(0.5016080156706165),
+                  'sigma': np.float64(0.3685115389155388)}}
+
+{ 'parameters': { 'mu': np.float64(0.374339064604723),
+                  'sigma': np.float64(0.3765850595402618)}}
+
+{ 'parameters': { 'mu': np.float64(0.4710803798530002),
+                  'sigma': np.float64(0.37346933139653277)}}
+
+{ 'parameters': { 'mu': np.float64(0.08977652920020879),
+                  'sigma': np.float64(0.367161673844014)}}
+
+{ 'parameters': { 'mu': np.float64(0.4033406605025598),
+                  'sigma': np.float64(0.3783267780545093)}}
+
+{ 'parameters': { 'mu': np.float64(0.2256486509823465),
+                  'sigma': np.float64(0.3824044214972435)}}
+
+{ 'parameters': { 'mu': np.float64(0.22502300354776683),
+                  'sigma': np.float64(0.37445103654636086)}}
+
+{ 'parameters': { 'mu': np.float64(0.2459586738133886),
+                  'sigma': np.float64(0.3637178943041362)}}
+
+{ 'parameters': { 'mu': np.float64(0.346647613307116),
+                  'sigma': np.float64(0.376977514424168)}}
+
+{ 'parameters': { 'mu': np.float64(0.22350499735310073),
+                  'sigma': np.float64(0.36874311313751634)}}
+
+{ 'parameters': { 'mu': np.float64(0.29730084129287815),
+                  'sigma': np.float64(0.3781264301068429)}}
+
+{ 'parameters': { 'mu': np.float64(0.38763612499439243),
+                  'sigma': np.float64(0.3632083997075894)}}
+
+{ 'parameters': { 'mu': np.float64(0.14316190599379153),
+                  'sigma': np.float64(0.4043381755891951)}}
+
+{ 'parameters': { 'mu': np.float64(0.2898096920193979),
+                  'sigma': np.float64(0.37597376565923046)}}
+
+{ 'parameters': { 'mu': np.float64(0.5113200014351293),
+                  'sigma': np.float64(0.36476698099580307)}}
+
+{ 'parameters': { 'mu': np.float64(0.16085423145843708),
+                  'sigma': np.float64(0.38226544110080424)}}
+
+{ 'parameters': { 'mu': np.float64(0.36925219952696076),
+                  'sigma': np.float64(0.3871387515518066)}}
+
+{ 'parameters': { 'mu': np.float64(0.30223011007651757),
+                  'sigma': np.float64(0.36905603597347747)}}
+
+{ 'parameters': { 'mu': np.float64(0.43118812298633363),
+                  'sigma': np.float64(0.37838736673635465)}}
+
+{ 'parameters': { 'mu': np.float64(0.3413730175210922),
+                  'sigma': np.float64(0.3820077582897008)}}
+
+{ 'parameters': { 'mu': np.float64(0.34688029885531607),
+                  'sigma': np.float64(0.38491395484818464)}}
+
+{ 'parameters': { 'mu': np.float64(0.2295425089504145),
+                  'sigma': np.float64(0.3986021738888184)}}
+
+{ 'parameters': { 'mu': np.float64(0.08444637628503657),
+                  'sigma': np.float64(0.3730441242676445)}}
+
+{ 'parameters': { 'mu': np.float64(0.5520283543595985),
+                  'sigma': np.float64(0.3722726376935178)}}
+
+{ 'parameters': { 'mu': np.float64(0.4916265272741246),
+                  'sigma': np.float64(0.39857807349300994)}}
+
+{ 'parameters': { 'mu': np.float64(0.27644066537597584),
+                  'sigma': np.float64(0.37119716145898607)}}
+
+{ 'parameters': { 'mu': np.float64(0.32260437770092687),
+                  'sigma': np.float64(0.3768052335229624)}}
+
+{ 'parameters': { 'mu': np.float64(0.2611648034146299),
+                  'sigma': np.float64(0.37529033253820365)}}
+
+{ 'parameters': { 'mu': np.float64(0.12095335776330703),
+                  'sigma': np.float64(0.37598981362015893)}}
+
+{ 'parameters': { 'mu': np.float64(0.26261728871381257),
+                  'sigma': np.float64(0.3829843057868831)}}
+
+{ 'parameters': { 'mu': np.float64(0.3317564556266259),
+                  'sigma': np.float64(0.3692395327294231)}}
+
+{ 'parameters': { 'mu': np.float64(0.1364334202341549),
+                  'sigma': np.float64(0.3640657533171317)}}
+
+{ 'parameters': { 'mu': np.float64(0.5629841915725472),
+                  'sigma': np.float64(0.3852196398361892)}}
+
+{ 'parameters': { 'mu': np.float64(0.16050258278188267),
+                  'sigma': np.float64(0.3924199332862092)}}
+
+{ 'parameters': { 'mu': np.float64(0.4144294085148662),
+                  'sigma': np.float64(0.3831391028179018)}}
+
+{ 'parameters': { 'mu': np.float64(0.30694816721604),
+                  'sigma': np.float64(0.3843247753963794)}}
+
+{ 'parameters': { 'mu': np.float64(0.1702918842964639),
+                  'sigma': np.float64(0.36349962946031616)}}
+
+{ 'parameters': { 'mu': np.float64(0.5835280072906055),
+                  'sigma': np.float64(0.38433517451848653)}}
+
+{ 'parameters': { 'mu': np.float64(0.4088704503664202),
+                  'sigma': np.float64(0.38396871875182126)}}
+
+{ 'parameters': { 'mu': np.float64(0.23412774955798274),
+                  'sigma': np.float64(0.3900696735842933)}}
+
+{ 'parameters': { 'mu': np.float64(0.4275692124364775),
+                  'sigma': np.float64(0.3755258419301365)}}
+
+{ 'parameters': { 'mu': np.float64(0.2526751389367932),
+                  'sigma': np.float64(0.3620018101331514)}}
+
+{ 'parameters': { 'mu': np.float64(0.27688473594544954),
+                  'sigma': np.float64(0.38389894542316505)}}
+
+{ 'parameters': { 'mu': np.float64(0.25668765752808587),
+                  'sigma': np.float64(0.38224547623341587)}}
+
+{ 'parameters': { 'mu': np.float64(0.1429243040089983),
+                  'sigma': np.float64(0.3697637316746598)}}
+
+{ 'parameters': { 'mu': np.float64(0.3790018536721312),
+                  'sigma': np.float64(0.3727293749192882)}}
+
+{ 'parameters': { 'mu': np.float64(0.34286570645038117),
+                  'sigma': np.float64(0.37717644682142765)}}
+
+{ 'parameters': { 'mu': np.float64(0.30754602512475304),
+                  'sigma': np.float64(0.3672226710909234)}}
+
+{ 'parameters': { 'mu': np.float64(0.428711853391364),
+                  'sigma': np.float64(0.40225765331178126)}}
+
+{ 'parameters': { 'mu': np.float64(0.33411088753874674),
+                  'sigma': np.float64(0.382089401655576)}}
+
+{ 'parameters': { 'mu': np.float64(0.49834253470704337),
+                  'sigma': np.float64(0.3527624058128813)}}
+
+{ 'parameters': { 'mu': np.float64(0.28110851357583966),
+                  'sigma': np.float64(0.38320766980378723)}}
+
+{ 'parameters': { 'mu': np.float64(0.48937508241578864),
+                  'sigma': np.float64(0.4023439826439343)}}
+
+{ 'parameters': { 'mu': np.float64(0.365681386677719),
+                  'sigma': np.float64(0.3792567134516025)}}
+
+{ 'parameters': { 'mu': np.float64(0.341315179526341),
+                  'sigma': np.float64(0.37894285780176495)}}
+
+{ 'parameters': { 'mu': np.float64(0.3749559970340177),
+                  'sigma': np.float64(0.38109367877534805)}}
+
+{ 'parameters': { 'mu': np.float64(0.16052694863315647),
+                  'sigma': np.float64(0.3848207481830067)}}
+
+{ 'parameters': { 'mu': np.float64(0.3693621624506301),
+                  'sigma': np.float64(0.3840721667754065)}}
+
+{ 'parameters': { 'mu': np.float64(0.24211002575066184),
+                  'sigma': np.float64(0.36517472702351544)}}
+
+{ 'parameters': { 'mu': np.float64(0.14433264186203415),
+                  'sigma': np.float64(0.3875934920570122)}}
+
+{ 'parameters': { 'mu': np.float64(0.3162175530309591),
+                  'sigma': np.float64(0.35969037247213437)}}
+
+{ 'parameters': { 'mu': np.float64(0.255530969019304),
+                  'sigma': np.float64(0.37873789592720786)}}
+
+{ 'parameters': { 'mu': np.float64(0.29426222522013123),
+                  'sigma': np.float64(0.35648654442164845)}}
+
+{ 'parameters': { 'mu': np.float64(0.18356862708367772),
+                  'sigma': np.float64(0.38442865449428976)}}
+
+{ 'parameters': { 'mu': np.float64(0.14952080544359989),
+                  'sigma': np.float64(0.3704996245998411)}}
+
+{ 'parameters': { 'mu': np.float64(0.2116017533655655),
+                  'sigma': np.float64(0.3703990247000801)}}
+
+{ 'parameters': { 'mu': np.float64(0.27574437791769424),
+                  'sigma': np.float64(0.3890146716758885)}}
+
+{ 'parameters': { 'mu': np.float64(0.21516159576591137),
+                  'sigma': np.float64(0.4100580605478035)}}
+
+{ 'parameters': { 'mu': np.float64(0.26337969721900323),
+                  'sigma': np.float64(0.37879776803914583)}}
+
+{ 'parameters': { 'mu': np.float64(0.36504234543734826),
+                  'sigma': np.float64(0.3910679397110915)}}
+
+{ 'parameters': { 'mu': np.float64(0.3872027105243508),
+                  'sigma': np.float64(0.3821801006836644)}}
+
+{ 'parameters': { 'mu': np.float64(0.2670535322750715),
+                  'sigma': np.float64(0.3748591132826563)}}
+
+{ 'parameters': { 'mu': np.float64(0.18293270145587456),
+                  'sigma': np.float64(0.3610184364646797)}}
+
+{ 'parameters': { 'mu': np.float64(0.40956761101348454),
+                  'sigma': np.float64(0.3822881769624824)}}
+
+{ 'parameters': { 'mu': np.float64(0.27790493786953163),
+                  'sigma': np.float64(0.3914737179609811)}}
+
+{ 'parameters': { 'mu': np.float64(0.28103211336386547),
+                  'sigma': np.float64(0.3891267419113672)}}
+
+{ 'parameters': { 'mu': np.float64(0.26287394546605836),
+                  'sigma': np.float64(0.36504808619238255)}}
+
+{ 'parameters': { 'mu': np.float64(0.45871170789402715),
+                  'sigma': np.float64(0.3964615225156874)}}
+
+{ 'parameters': { 'mu': np.float64(0.10992789144585549),
+                  'sigma': np.float64(0.384971856905533)}}
+
+{ 'parameters': { 'mu': np.float64(0.1568654384453269),
+                  'sigma': np.float64(0.3564259450781738)}}
+
+{ 'parameters': { 'mu': np.float64(0.26479152066374223),
+                  'sigma': np.float64(0.3777158899150747)}}
+
+{ 'parameters': { 'mu': np.float64(0.12042740155708168),
+                  'sigma': np.float64(0.3789666785352067)}}
+
+{ 'parameters': { 'mu': np.float64(0.16710687669611807),
+                  'sigma': np.float64(0.3856412886719313)}}
+
+{ 'parameters': { 'mu': np.float64(0.16434419386409443),
+                  'sigma': np.float64(0.37398845756947235)}}
+
+{ 'parameters': { 'mu': np.float64(0.5146102516621731),
+                  'sigma': np.float64(0.3653375260435354)}}
+
+{ 'parameters': { 'mu': np.float64(0.17254116314869716),
+                  'sigma': np.float64(0.3722690014070467)}}
+
+{ 'parameters': { 'mu': np.float64(0.33816155550467747),
+                  'sigma': np.float64(0.3748691582535306)}}
+
+{ 'parameters': { 'mu': np.float64(0.33213698260887814),
+                  'sigma': np.float64(0.40148783670477906)}}
+
+{ 'parameters': { 'mu': np.float64(0.348801007014895),
+                  'sigma': np.float64(0.36143260174704256)}}
+
+{ 'parameters': { 'mu': np.float64(0.3189212733147655),
+                  'sigma': np.float64(0.35871739835133704)}}
+
+{ 'parameters': { 'mu': np.float64(0.3730124715369791),
+                  'sigma': np.float64(0.3913706789985312)}}
+
+{ 'parameters': { 'mu': np.float64(0.1731190849868399),
+                  'sigma': np.float64(0.3909015603583882)}}
+
+{ 'parameters': { 'mu': np.float64(0.35407421903627984),
+                  'sigma': np.float64(0.3623001350952159)}}
+
+{ 'parameters': { 'mu': np.float64(0.2777916824418865),
+                  'sigma': np.float64(0.37096782671708706)}}
+
+{ 'parameters': { 'mu': np.float64(0.15204629638207512),
+                  'sigma': np.float64(0.379521102161241)}}
+
+{ 'parameters': { 'mu': np.float64(0.3186850595805433),
+                  'sigma': np.float64(0.39139676643844956)}}
+
+{ 'parameters': { 'mu': np.float64(0.2364833310793975),
+                  'sigma': np.float64(0.37647159026652033)}}
+
+{ 'parameters': { 'mu': np.float64(0.3817498757747889),
+                  'sigma': np.float64(0.36829666890632823)}}
+
+{ 'parameters': { 'mu': np.float64(0.43916157086609847),
+                  'sigma': np.float64(0.3861041709795658)}}
+
+{ 'parameters': { 'mu': np.float64(0.1482578181492667),
+                  'sigma': np.float64(0.37548408804359873)}}
+
+{ 'parameters': { 'mu': np.float64(0.515503009606842),
+                  'sigma': np.float64(0.3778587294374269)}}
+
+{ 'parameters': { 'mu': np.float64(0.256366639392262),
+                  'sigma': np.float64(0.4106508786938797)}}
+
+{ 'parameters': { 'mu': np.float64(0.17610013665287175),
+                  'sigma': np.float64(0.3784618217500509)}}
+
+{ 'parameters': { 'mu': np.float64(0.2399497884682281),
+                  'sigma': np.float64(0.3641422016466242)}}
+
+{ 'parameters': { 'mu': np.float64(0.25979709218105146),
+                  'sigma': np.float64(0.36773223921351644)}}
+
+{ 'parameters': { 'mu': np.float64(0.26080144292692614),
+                  'sigma': np.float64(0.3965459010286883)}}
+
+{ 'parameters': { 'mu': np.float64(0.3786465870978304),
+                  'sigma': np.float64(0.36991232251264056)}}
+
+{ 'parameters': { 'mu': np.float64(0.12299675125952048),
+                  'sigma': np.float64(0.37736701846098514)}}
+
+{ 'parameters': { 'mu': np.float64(0.2447966950744781),
+                  'sigma': np.float64(0.3852820215936569)}}
+
+{ 'parameters': { 'mu': np.float64(0.34884555154086405),
+                  'sigma': np.float64(0.38009584798165585)}}
+
+{ 'parameters': { 'mu': np.float64(0.15071365041262347),
+                  'sigma': np.float64(0.3843251030682779)}}
+
+{ 'parameters': { 'mu': np.float64(0.21646279119340728),
+                  'sigma': np.float64(0.35677999047109654)}}
+
+{ 'parameters': { 'mu': np.float64(0.30226375498548086),
+                  'sigma': np.float64(0.362550159696911)}}
+
+{ 'parameters': { 'mu': np.float64(0.21675286248634484),
+                  'sigma': np.float64(0.3664247372757757)}}
+
+{ 'parameters': { 'mu': np.float64(0.21409232925257765),
+                  'sigma': np.float64(0.37011189999422617)}}
+
+{ 'parameters': { 'mu': np.float64(0.17980013034990272),
+                  'sigma': np.float64(0.3813002965909939)}}
+
+{ 'parameters': { 'mu': np.float64(0.2415084050010775),
+                  'sigma': np.float64(0.3625501513506552)}}
+
+{ 'parameters': { 'mu': np.float64(0.49803899522841083),
+                  'sigma': np.float64(0.36004270767985747)}}
+
+{ 'parameters': { 'mu': np.float64(0.5762295164755871),
+                  'sigma': np.float64(0.37820741924688894)}}
+
+{ 'parameters': { 'mu': np.float64(0.41319625954408074),
+                  'sigma': np.float64(0.38140067771108677)}}
+
+{ 'parameters': { 'mu': np.float64(0.23558297460802485),
+                  'sigma': np.float64(0.3663287184190498)}}
+
+{ 'parameters': { 'mu': np.float64(0.39173796121754983),
+                  'sigma': np.float64(0.3934956243268224)}}
+
+{ 'parameters': { 'mu': np.float64(0.11693619786758058),
+                  'sigma': np.float64(0.3668258699479991)}}
+
+{ 'parameters': { 'mu': np.float64(0.38568348060039453),
+                  'sigma': np.float64(0.3909279680989904)}}
+
+{ 'parameters': { 'mu': np.float64(0.48453557816323833),
+                  'sigma': np.float64(0.3836846185156974)}}
+
+{ 'parameters': { 'mu': np.float64(0.4955263895210774),
+                  'sigma': np.float64(0.38169854419665233)}}
+
+{ 'parameters': { 'mu': np.float64(0.08589735643168368),
+                  'sigma': np.float64(0.38613757929561876)}}
+
+{ 'parameters': { 'mu': np.float64(0.42526263498357036),
+                  'sigma': np.float64(0.388037873665694)}}
+
+{ 'parameters': { 'mu': np.float64(0.14159764127940636),
+                  'sigma': np.float64(0.39538909218702945)}}
+
+{ 'parameters': { 'mu': np.float64(0.3788979049106209),
+                  'sigma': np.float64(0.3881595178630966)}}
+
+{ 'parameters': { 'mu': np.float64(0.09018376654863432),
+                  'sigma': np.float64(0.3720997083824809)}}
+
+{ 'parameters': { 'mu': np.float64(0.24455341571211353),
+                  'sigma': np.float64(0.3765887895826025)}}
+
+{ 'parameters': { 'mu': np.float64(0.1852739480236254),
+                  'sigma': np.float64(0.3813693605685083)}}
+
+{ 'parameters': { 'mu': np.float64(0.3390280875496086),
+                  'sigma': np.float64(0.3608744188059246)}}
+
+{ 'parameters': { 'mu': np.float64(0.24518634519697635),
+                  'sigma': np.float64(0.3817604230188776)}}
+
+{ 'parameters': { 'mu': np.float64(0.37195923856093294),
+                  'sigma': np.float64(0.37459373273233165)}}
+
+{ 'parameters': { 'mu': np.float64(0.2042819615358491),
+                  'sigma': np.float64(0.3705987166852452)}}
+
+{ 'parameters': { 'mu': np.float64(0.18510159801959697),
+                  'sigma': np.float64(0.3763908343843789)}}
+
+{ 'parameters': { 'mu': np.float64(0.31428892274276404),
+                  'sigma': np.float64(0.3830613250599141)}}
+
+{ 'parameters': { 'mu': np.float64(0.038522983159039764),
+                  'sigma': np.float64(0.3444266955933989)}}
+
+{ 'parameters': { 'mu': np.float64(0.1962274854341983),
+                  'sigma': np.float64(0.37778926305576765)}}
+
+{ 'parameters': { 'mu': np.float64(0.24225471172131535),
+                  'sigma': np.float64(0.37987850957790426)}}
+
+{ 'parameters': { 'mu': np.float64(0.2612121602881611),
+                  'sigma': np.float64(0.3616796026491604)}}
+
+{ 'parameters': { 'mu': np.float64(0.41029916515599335),
+                  'sigma': np.float64(0.3841506840408752)}}
+
+{ 'parameters': { 'mu': np.float64(0.5281521735281784),
+                  'sigma': np.float64(0.36438692216734764)}}
+
+{ 'parameters': { 'mu': np.float64(0.36068592724054194),
+                  'sigma': np.float64(0.36528851434689824)}}
+
+{ 'parameters': { 'mu': np.float64(0.2955255266303911),
+                  'sigma': np.float64(0.3782534391050812)}}
+
+{ 'parameters': { 'mu': np.float64(0.2880233539899597),
+                  'sigma': np.float64(0.3850123855632279)}}
+
+{ 'parameters': { 'mu': np.float64(0.09477261134315214),
+                  'sigma': np.float64(0.3816450084205214)}}
+
+{ 'parameters': { 'mu': np.float64(0.33466517928952455),
+                  'sigma': np.float64(0.3848090902645744)}}
+
+{ 'parameters': { 'mu': np.float64(0.14395619640384677),
+                  'sigma': np.float64(0.3919341164477941)}}
+
+{ 'parameters': { 'mu': np.float64(0.35883555067596046),
+                  'sigma': np.float64(0.378746898301278)}}
+
+{ 'parameters': { 'mu': np.float64(0.103965519223506),
+                  'sigma': np.float64(0.37476519580505596)}}
+
+{ 'parameters': { 'mu': np.float64(0.3522769987539986),
+                  'sigma': np.float64(0.36017031680567163)}}
+
+{ 'parameters': { 'mu': np.float64(0.3077569991183907),
+                  'sigma': np.float64(0.3858921787658914)}}
+
+{ 'parameters': { 'mu': np.float64(0.3539507009837989),
+                  'sigma': np.float64(0.3664086390150988)}}
+
+{ 'parameters': { 'mu': np.float64(0.2480077267849996),
+                  'sigma': np.float64(0.38019471537153643)}}
+
+{ 'parameters': { 'mu': np.float64(0.1767591883233356),
+                  'sigma': np.float64(0.3600944575474082)}}
+
+{ 'parameters': { 'mu': np.float64(0.4423616653398113),
+                  'sigma': np.float64(0.3872249504512443)}}
+
+{ 'parameters': { 'mu': np.float64(0.2852311796026155),
+                  'sigma': np.float64(0.37251735161758603)}}
+
+{ 'parameters': { 'mu': np.float64(0.14909839084055426),
+                  'sigma': np.float64(0.3996137481876926)}}
+
+{ 'parameters': { 'mu': np.float64(0.18268908620798516),
+                  'sigma': np.float64(0.36827543178228367)}}
+
+{ 'parameters': { 'mu': np.float64(0.20224849580742518),
+                  'sigma': np.float64(0.37269288612934415)}}
+
+{ 'parameters': { 'mu': np.float64(0.16742835872143425),
+                  'sigma': np.float64(0.37488586105666116)}}
+
+{ 'parameters': { 'mu': np.float64(0.3663011322891432),
+                  'sigma': np.float64(0.380800903111259)}}
+
+{ 'parameters': { 'mu': np.float64(0.33768422875062576),
+                  'sigma': np.float64(0.38381134243959175)}}
+
+{ 'parameters': { 'mu': np.float64(0.2811747143313076),
+                  'sigma': np.float64(0.3776622968520399)}}
+
+{ 'parameters': { 'mu': np.float64(0.2670186888578352),
+                  'sigma': np.float64(0.372146128818104)}}
+
+{ 'parameters': { 'mu': np.float64(0.29123444363002116),
+                  'sigma': np.float64(0.3921631312366902)}}
+
+{ 'parameters': { 'mu': np.float64(0.1516927010184443),
+                  'sigma': np.float64(0.3658492448962757)}}
+
+{ 'parameters': { 'mu': np.float64(0.09344453916227184),
+                  'sigma': np.float64(0.36215526079296984)}}
+
+{ 'parameters': { 'mu': np.float64(0.3285670593221597),
+                  'sigma': np.float64(0.3683392564520345)}}
+
+{ 'parameters': { 'mu': np.float64(0.20521605936776147),
+                  'sigma': np.float64(0.37282704748258566)}}
+
+{ 'parameters': { 'mu': np.float64(0.251305581760354),
+                  'sigma': np.float64(0.3833206663365458)}}
+
+{ 'parameters': { 'mu': np.float64(0.4378923856095727),
+                  'sigma': np.float64(0.36355381918130625)}}
+
+{ 'parameters': { 'mu': np.float64(0.42388238606031076),
+                  'sigma': np.float64(0.36996191829043307)}}
+
+{ 'parameters': { 'mu': np.float64(0.4824463624258105),
+                  'sigma': np.float64(0.37039198717349775)}}
+
+{ 'parameters': { 'mu': np.float64(0.2445695598761327),
+                  'sigma': np.float64(0.39897747082012314)}}
+
+{ 'parameters': { 'mu': np.float64(0.33812767189063564),
+                  'sigma': np.float64(0.36628472844353516)}}
+
+{ 'parameters': { 'mu': np.float64(0.18971253915732167),
+                  'sigma': np.float64(0.37124755089861716)}}
+
+{ 'parameters': { 'mu': np.float64(0.1906508064861987),
+                  'sigma': np.float64(0.383501184094859)}}
+
+{ 'parameters': { 'mu': np.float64(0.39524099202604246),
+                  'sigma': np.float64(0.3714628507906627)}}
+
+{ 'parameters': { 'mu': np.float64(0.37967985610830657),
+                  'sigma': np.float64(0.3782191320242282)}}
+
+{ 'parameters': { 'mu': np.float64(0.1789882583043079),
+                  'sigma': np.float64(0.3973089038775136)}}
+
+{ 'parameters': { 'mu': np.float64(0.30561355860987593),
+                  'sigma': np.float64(0.3815937379175657)}}
+
+{ 'parameters': { 'mu': np.float64(0.37042456013707104),
+                  'sigma': np.float64(0.3726320757395466)}}
+
+{ 'parameters': { 'mu': np.float64(0.10202641603040721),
+                  'sigma': np.float64(0.37404009267393673)}}
+
+{ 'parameters': { 'mu': np.float64(0.4020182156817794),
+                  'sigma': np.float64(0.3841096079878334)}}
+
+{ 'parameters': { 'mu': np.float64(0.42069764443919017),
+                  'sigma': np.float64(0.3755796011155287)}}
+
+{ 'parameters': { 'mu': np.float64(0.21339727938405412),
+                  'sigma': np.float64(0.38004410409491163)}}
+
+{ 'parameters': { 'mu': np.float64(0.3025978078924275),
+                  'sigma': np.float64(0.36428521737025493)}}
+
+{ 'parameters': { 'mu': np.float64(0.44979725003748233),
+                  'sigma': np.float64(0.3780536848749067)}}
+
+{ 'parameters': { 'mu': np.float64(0.12140808490135926),
+                  'sigma': np.float64(0.3620142440311704)}}
+
+{ 'parameters': { 'mu': np.float64(0.3205696654145095),
+                  'sigma': np.float64(0.35640147763341734)}}
+
+{ 'parameters': { 'mu': np.float64(0.44450494079949543),
+                  'sigma': np.float64(0.3694184791170459)}}
+
+{ 'parameters': { 'mu': np.float64(0.4369313529037275),
+                  'sigma': np.float64(0.3717368097715154)}}
+
+{ 'parameters': { 'mu': np.float64(0.1889162819364249),
+                  'sigma': np.float64(0.37384104405399604)}}
+
+{ 'parameters': { 'mu': np.float64(0.22971163559597596),
+                  'sigma': np.float64(0.3730386880617963)}}
+
+{ 'parameters': { 'mu': np.float64(0.46182019769268134),
+                  'sigma': np.float64(0.364055574974654)}}
+
+{ 'parameters': { 'mu': np.float64(0.1597423898499633),
+                  'sigma': np.float64(0.36387348118343893)}}
+
+{ 'parameters': { 'mu': np.float64(0.38060159408945765),
+                  'sigma': np.float64(0.3843564464224329)}}
+
+{ 'parameters': { 'mu': np.float64(0.1787625564828917),
+                  'sigma': np.float64(0.35948267309986387)}}
+
+{ 'parameters': { 'mu': np.float64(0.4734135464659516),
+                  'sigma': np.float64(0.3772366812918727)}}
+
+{ 'parameters': { 'mu': np.float64(0.48048845004793667),
+                  'sigma': np.float64(0.3718470267462975)}}
+
+{ 'parameters': { 'mu': np.float64(0.32270788257259486),
+                  'sigma': np.float64(0.3832172093036203)}}
+
+{ 'parameters': { 'mu': np.float64(0.5583308310199803),
+                  'sigma': np.float64(0.39380578954036966)}}
+
+{ 'parameters': { 'mu': np.float64(0.20831269405794073),
+                  'sigma': np.float64(0.36626266270730257)}}
+
+{ 'parameters': { 'mu': np.float64(0.332787893906479),
+                  'sigma': np.float64(0.37738759699937435)}}
+
+{ 'parameters': { 'mu': np.float64(0.21740489922560396),
+                  'sigma': np.float64(0.3663917581092124)}}
+
+{ 'parameters': { 'mu': np.float64(0.39579134533225646),
+                  'sigma': np.float64(0.4083751441916575)}}
+
+{ 'parameters': { 'mu': np.float64(0.3209396580525426),
+                  'sigma': np.float64(0.3828933919875924)}}
+
+{ 'parameters': { 'mu': np.float64(0.2570104886359986),
+                  'sigma': np.float64(0.370256315307478)}}
+
+{ 'parameters': { 'mu': np.float64(0.3037259086179735),
+                  'sigma': np.float64(0.37684057960366246)}}
+
+{ 'parameters': { 'mu': np.float64(0.27698606967710243),
+                  'sigma': np.float64(0.38189429666171953)}}
+
+{ 'parameters': { 'mu': np.float64(0.26271453898029107),
+                  'sigma': np.float64(0.38278898259200383)}}
+
+{ 'parameters': { 'mu': np.float64(0.1310830100266211),
+                  'sigma': np.float64(0.38073553503837787)}}
+
+{ 'parameters': { 'mu': np.float64(0.4157353504749214),
+                  'sigma': np.float64(0.3743734901597536)}}
+
+{ 'parameters': { 'mu': np.float64(0.28337183086843204),
+                  'sigma': np.float64(0.389244168550545)}}
+
+{ 'parameters': { 'mu': np.float64(0.1384801952687048),
+                  'sigma': np.float64(0.3710277216344494)}}
+
+{ 'parameters': { 'mu': np.float64(0.3888716422701563),
+                  'sigma': np.float64(0.3918308120700193)}}
+
+{ 'parameters': { 'mu': np.float64(0.28502048696972293),
+                  'sigma': np.float64(0.3743530917783884)}}
+
+{ 'parameters': { 'mu': np.float64(0.3306454400877494),
+                  'sigma': np.float64(0.35785604331596194)}}
+
+{ 'parameters': { 'mu': np.float64(0.46348244397671423),
+                  'sigma': np.float64(0.40002025420521653)}}
+
+{ 'parameters': { 'mu': np.float64(0.4331108043860727),
+                  'sigma': np.float64(0.38767958601935887)}}
+
+{ 'parameters': { 'mu': np.float64(0.40367494711338897),
+                  'sigma': np.float64(0.37563747868253033)}}
+
+{ 'parameters': { 'mu': np.float64(0.2981087121128038),
+                  'sigma': np.float64(0.3752746688760316)}}
+
+{ 'parameters': { 'mu': np.float64(0.25378566079288145),
+                  'sigma': np.float64(0.39617917758717797)}}
+
+{ 'parameters': { 'mu': np.float64(0.3934371011189477),
+                  'sigma': np.float64(0.3785712845276131)}}
+
+{ 'parameters': { 'mu': np.float64(0.244897041864871),
+                  'sigma': np.float64(0.39542768005147927)}}
+
+{ 'parameters': { 'mu': np.float64(0.16593023387984762),
+                  'sigma': np.float64(0.38964545492628677)}}
+
+{ 'parameters': { 'mu': np.float64(0.36068766152115395),
+                  'sigma': np.float64(0.3770228283308907)}}
+
+{ 'parameters': { 'mu': np.float64(0.2236490390677249),
+                  'sigma': np.float64(0.3722271113397784)}}
+
+{ 'parameters': { 'mu': np.float64(0.4758663694372134),
+                  'sigma': np.float64(0.38461267524347686)}}
+
+{ 'parameters': { 'mu': np.float64(0.37877737221050156),
+                  'sigma': np.float64(0.36228895077713413)}}
+
+{ 'parameters': { 'mu': np.float64(0.20271656739645516),
+                  'sigma': np.float64(0.3758481448995891)}}
+
+{ 'parameters': { 'mu': np.float64(0.4996695226713077),
+                  'sigma': np.float64(0.37718195224058965)}}
+
+{ 'parameters': { 'mu': np.float64(0.12071025543062193),
+                  'sigma': np.float64(0.3895404824138267)}}
+
+{ 'parameters': { 'mu': np.float64(0.4404410834706895),
+                  'sigma': np.float64(0.3956205488432565)}}
+
+{ 'parameters': { 'mu': np.float64(0.35470691496204665),
+                  'sigma': np.float64(0.3456306984457509)}}
+
+{ 'parameters': { 'mu': np.float64(0.4245523519085176),
+                  'sigma': np.float64(0.37497027771525115)}}
+
+{ 'parameters': { 'mu': np.float64(0.4743476915814816),
+                  'sigma': np.float64(0.35461225722215656)}}
+
+{ 'parameters': { 'mu': np.float64(0.5380820035942231),
+                  'sigma': np.float64(0.3806869827042676)}}
+
+{ 'parameters': { 'mu': np.float64(0.27414202385192066),
+                  'sigma': np.float64(0.3728965552057035)}}
+
+{ 'parameters': { 'mu': np.float64(0.5213831155671124),
+                  'sigma': np.float64(0.35799696840055856)}}
+
+{ 'parameters': { 'mu': np.float64(0.23416411076002697),
+                  'sigma': np.float64(0.35842524826861233)}}
+
+{ 'parameters': { 'mu': np.float64(0.1767005296063545),
+                  'sigma': np.float64(0.38214381630902083)}}
+
+{ 'parameters': { 'mu': np.float64(0.429773505842417),
+                  'sigma': np.float64(0.36475579739196357)}}
+
+{ 'parameters': { 'mu': np.float64(0.3479511466044654),
+                  'sigma': np.float64(0.38029650210087995)}}
+
+{ 'parameters': { 'mu': np.float64(0.34898348493899095),
+                  'sigma': np.float64(0.38407525994381514)}}
+
+{ 'parameters': { 'mu': np.float64(0.34827619067288806),
+                  'sigma': np.float64(0.3801761926921952)}}
+
+{ 'parameters': { 'mu': np.float64(0.22575777506589456),
+                  'sigma': np.float64(0.3682421852931266)}}
+
+{ 'parameters': { 'mu': np.float64(0.4451904644158154),
+                  'sigma': np.float64(0.3904151623811434)}}
+
+{ 'parameters': { 'mu': np.float64(0.21191107014024463),
+                  'sigma': np.float64(0.36663608495460925)}}
+
+{ 'parameters': { 'mu': np.float64(0.3983047449153952),
+                  'sigma': np.float64(0.40313722417683956)}}
+
+{ 'parameters': { 'mu': np.float64(0.4761458937816645),
+                  'sigma': np.float64(0.37593596787146183)}}
+
+{ 'parameters': { 'mu': np.float64(0.36029119511661134),
+                  'sigma': np.float64(0.3752112184436695)}}
+
+{ 'parameters': { 'mu': np.float64(0.3873645757549449),
+                  'sigma': np.float64(0.3907623670037062)}}
+
+{ 'parameters': { 'mu': np.float64(0.17942554353113838),
+                  'sigma': np.float64(0.36537110860279715)}}
+
+{ 'parameters': { 'mu': np.float64(0.5003593613245354),
+                  'sigma': np.float64(0.3816610212822869)}}
+
+{ 'parameters': { 'mu': np.float64(0.2854625828859991),
+                  'sigma': np.float64(0.38032598912677923)}}
+
+{ 'parameters': { 'mu': np.float64(0.26882764329266207),
+                  'sigma': np.float64(0.3817528445248901)}}
+
+{ 'parameters': { 'mu': np.float64(0.23131629249292263),
+                  'sigma': np.float64(0.39522133726058023)}}
+
+{ 'parameters': { 'mu': np.float64(0.4984606271942693),
+                  'sigma': np.float64(0.37344358275722045)}}
+
+{ 'parameters': { 'mu': np.float64(0.2623280034863679),
+                  'sigma': np.float64(0.38731139205576803)}}
+
+{ 'parameters': { 'mu': np.float64(0.3366698133315672),
+                  'sigma': np.float64(0.3722891539979646)}}
+
+{ 'parameters': { 'mu': np.float64(0.31750757194441737),
+                  'sigma': np.float64(0.35962191915161734)}}
+
+{ 'parameters': { 'mu': np.float64(0.32712264395967844),
+                  'sigma': np.float64(0.38939202737702944)}}
+
+{ 'parameters': { 'mu': np.float64(0.4581404998113374),
+                  'sigma': np.float64(0.40936675179569953)}}
+
+{ 'parameters': { 'mu': np.float64(0.4871628129504517),
+                  'sigma': np.float64(0.36978286319032133)}}
+
+{ 'parameters': { 'mu': np.float64(0.4413564854009373),
+                  'sigma': np.float64(0.36142527837856836)}}
+
+{ 'parameters': { 'mu': np.float64(0.1688924208282902),
+                  'sigma': np.float64(0.37204870702542503)}}
+
+{ 'parameters': { 'mu': np.float64(0.42269452563296),
+                  'sigma': np.float64(0.37759915224622675)}}
+
+{ 'parameters': { 'mu': np.float64(0.29328506038653135),
+                  'sigma': np.float64(0.38824221749110244)}}
+
+{ 'parameters': { 'mu': np.float64(0.15509075052496155),
+                  'sigma': np.float64(0.3955709846594885)}}
+
+{ 'parameters': { 'mu': np.float64(0.3318320490869342),
+                  'sigma': np.float64(0.3714804401093874)}}
+
+{ 'parameters': { 'mu': np.float64(0.3674192631759841),
+                  'sigma': np.float64(0.38631721335243574)}}
+
+{ 'parameters': { 'mu': np.float64(0.4218529325778371),
+                  'sigma': np.float64(0.38392868260564417)}}
+
+{ 'parameters': { 'mu': np.float64(0.400139695218188),
+                  'sigma': np.float64(0.37793876062140885)}}
+
+{ 'parameters': { 'mu': np.float64(0.3167521564789565),
+                  'sigma': np.float64(0.36361410666456756)}}
+
+{ 'parameters': { 'mu': np.float64(0.3963184554373321),
+                  'sigma': np.float64(0.3913779393797571)}}
+
+{ 'parameters': { 'mu': np.float64(0.35456280329927886),
+                  'sigma': np.float64(0.3687603869665963)}}
+
+{ 'parameters': { 'mu': np.float64(0.21543238756678518),
+                  'sigma': np.float64(0.384423117964175)}}
+
+{ 'parameters': { 'mu': np.float64(0.13714673285510293),
+                  'sigma': np.float64(0.37629270009180316)}}
+
+{ 'parameters': { 'mu': np.float64(0.37484045142908445),
+                  'sigma': np.float64(0.3898077551180509)}}
+
+{ 'parameters': { 'mu': np.float64(0.2741323708237555),
+                  'sigma': np.float64(0.3803540615372051)}}
+
+{ 'parameters': { 'mu': np.float64(0.19857154285182008),
+                  'sigma': np.float64(0.3845759165659073)}}
+
+{ 'parameters': { 'mu': np.float64(0.2192499624242792),
+                  'sigma': np.float64(0.36714121260303545)}}
+
+{ 'parameters': { 'mu': np.float64(0.5406285912365448),
+                  'sigma': np.float64(0.37719506695549865)}}
+
+{ 'parameters': { 'mu': np.float64(0.21195241841659967),
+                  'sigma': np.float64(0.36930128796324996)}}
+
+{ 'parameters': { 'mu': np.float64(0.4042755615031814),
+                  'sigma': np.float64(0.3823056649327841)}}
+
+{ 'parameters': { 'mu': np.float64(0.3920489105370055),
+                  'sigma': np.float64(0.37959457012982356)}}
+
+{ 'parameters': { 'mu': np.float64(0.2625255440230656),
+                  'sigma': np.float64(0.37245007152188236)}}
+
+{ 'parameters': { 'mu': np.float64(0.13414685370335533),
+                  'sigma': np.float64(0.379401109583713)}}
+
+{ 'parameters': { 'mu': np.float64(0.3908634228351153),
+                  'sigma': np.float64(0.37286440864464554)}}
+
+{ 'parameters': { 'mu': np.float64(-0.014936700353198856),
+                  'sigma': np.float64(0.3791343624226178)}}
+
+{ 'parameters': { 'mu': np.float64(0.42422489571608063),
+                  'sigma': np.float64(0.3760028326338152)}}
+
+{ 'parameters': { 'mu': np.float64(0.3966025559576196),
+                  'sigma': np.float64(0.37003327986602397)}}
+
+{ 'parameters': { 'mu': np.float64(0.16277491782770684),
+                  'sigma': np.float64(0.3971467933682549)}}
+
+{ 'parameters': { 'mu': np.float64(0.1664756507529317),
+                  'sigma': np.float64(0.36564477092720127)}}
+
+{ 'parameters': { 'mu': np.float64(0.578076237239564),
+                  'sigma': np.float64(0.38259648184782946)}}
+
+{ 'parameters': { 'mu': np.float64(0.39676638750819526),
+                  'sigma': np.float64(0.3796521507120058)}}
+
+{ 'parameters': { 'mu': np.float64(0.28418150951112486),
+                  'sigma': np.float64(0.3847494441782075)}}
+
+{ 'parameters': { 'mu': np.float64(0.2274661490961564),
+                  'sigma': np.float64(0.38505217422379506)}}
+
+{ 'parameters': { 'mu': np.float64(0.29508682898713273),
+                  'sigma': np.float64(0.3837003941743559)}}
+
+{ 'parameters': { 'mu': np.float64(0.47107096591790076),
+                  'sigma': np.float64(0.3723535098864006)}}
+
+{ 'parameters': { 'mu': np.float64(0.26004418506642907),
+                  'sigma': np.float64(0.3605609521757706)}}
+
+{ 'parameters': { 'mu': np.float64(0.20948597149393894),
+                  'sigma': np.float64(0.3775720638976171)}}
+
+{ 'parameters': { 'mu': np.float64(0.2732272535463953),
+                  'sigma': np.float64(0.3911638999458612)}}
+
+{ 'parameters': { 'mu': np.float64(-0.006367716520452232),
+                  'sigma': np.float64(0.36741169498610105)}}
+
+{ 'parameters': { 'mu': np.float64(0.6397133991643594),
+                  'sigma': np.float64(0.3767883060812895)}}
+
+{ 'parameters': { 'mu': np.float64(0.4254452772510917),
+                  'sigma': np.float64(0.3735344652572048)}}
+
+{ 'parameters': { 'mu': np.float64(0.09279477025734842),
+                  'sigma': np.float64(0.4049258691173034)}}
+
+{ 'parameters': { 'mu': np.float64(0.2282566313182447),
+                  'sigma': np.float64(0.3778313382451102)}}
+
+{ 'parameters': { 'mu': np.float64(0.12613654368060537),
+                  'sigma': np.float64(0.3718779631447918)}}
+
+{ 'parameters': { 'mu': np.float64(0.24713471937652048),
+                  'sigma': np.float64(0.3667209979723605)}}
+
+{ 'parameters': { 'mu': np.float64(0.26540756087886463),
+                  'sigma': np.float64(0.3979000122371264)}}
+
+{ 'parameters': { 'mu': np.float64(0.16988930699487229),
+                  'sigma': np.float64(0.3991574774309978)}}
+
+{ 'parameters': { 'mu': np.float64(0.21598934026468739),
+                  'sigma': np.float64(0.3649848461029512)}}
+
+{ 'parameters': { 'mu': np.float64(0.48109533183500386),
+                  'sigma': np.float64(0.37486045711062915)}}
+
+{ 'parameters': { 'mu': np.float64(0.3341163105069232),
+                  'sigma': np.float64(0.3728307448298799)}}
+
+{ 'parameters': { 'mu': np.float64(0.6080660284576354),
+                  'sigma': np.float64(0.38546661755763995)}}
+
+{ 'parameters': { 'mu': np.float64(0.3637930849296941),
+                  'sigma': np.float64(0.3602110916698063)}}
+
+{ 'parameters': { 'mu': np.float64(0.2435434903140194),
+                  'sigma': np.float64(0.3698612925228798)}}
+
+{ 'parameters': { 'mu': np.float64(0.2575415270927421),
+                  'sigma': np.float64(0.3750112604703256)}}
+
+{ 'parameters': { 'mu': np.float64(0.43286325841501133),
+                  'sigma': np.float64(0.38034629362457545)}}
+
+{ 'parameters': { 'mu': np.float64(0.12679412367020285),
+                  'sigma': np.float64(0.3569339821560019)}}
+
+{ 'parameters': { 'mu': np.float64(0.41948282246834534),
+                  'sigma': np.float64(0.36520536862567066)}}
+
+{ 'parameters': { 'mu': np.float64(0.23818062365966314),
+                  'sigma': np.float64(0.3674699899398737)}}
+
+{ 'parameters': { 'mu': np.float64(0.20346190488151153),
+                  'sigma': np.float64(0.3782107079253767)}}
+
+{ 'parameters': { 'mu': np.float64(0.2074258809328658),
+                  'sigma': np.float64(0.4203986635099808)}}
+
+{ 'parameters': { 'mu': np.float64(0.3422497243136369),
+                  'sigma': np.float64(0.36776259378317944)}}
+
+{ 'parameters': { 'mu': np.float64(0.38639875514843136),
+                  'sigma': np.float64(0.3762907719339861)}}
+
+{ 'parameters': { 'mu': np.float64(0.2895304597631126),
+                  'sigma': np.float64(0.39869180283203903)}}
+
+{ 'parameters': { 'mu': np.float64(0.24882328651469615),
+                  'sigma': np.float64(0.36888462687680434)}}
+
+{ 'parameters': { 'mu': np.float64(0.34793551958803076),
+                  'sigma': np.float64(0.40076570892880325)}}
+
+{ 'parameters': { 'mu': np.float64(0.4227292671517635),
+                  'sigma': np.float64(0.38548924869799245)}}
+
+{ 'parameters': { 'mu': np.float64(0.19119848600756817),
+                  'sigma': np.float64(0.360847075164955)}}
+
+{ 'parameters': { 'mu': np.float64(0.23820834504265803),
+                  'sigma': np.float64(0.39048777681613467)}}
+
+{ 'parameters': { 'mu': np.float64(0.2910576395790626),
+                  'sigma': np.float64(0.38337997167290383)}}
+
+{ 'parameters': { 'mu': np.float64(0.3045119438629482),
+                  'sigma': np.float64(0.37948697293856765)}}
+
+{ 'parameters': { 'mu': np.float64(0.5201377639505628),
+                  'sigma': np.float64(0.3688496268435426)}}
+
+{ 'parameters': { 'mu': np.float64(0.4748212978652552),
+                  'sigma': np.float64(0.39073502304691493)}}
+
+{ 'parameters': { 'mu': np.float64(0.30390259396949315),
+                  'sigma': np.float64(0.3917832453108304)}}
+
+{ 'parameters': { 'mu': np.float64(0.2766164628441162),
+                  'sigma': np.float64(0.3926559353694494)}}
+
+{ 'parameters': { 'mu': np.float64(0.26704670314140483),
+                  'sigma': np.float64(0.39060963266781945)}}
+
+{ 'parameters': { 'mu': np.float64(0.557987578618547),
+                  'sigma': np.float64(0.3846275024585907)}}
+
+{ 'parameters': { 'mu': np.float64(0.240617190715894),
+                  'sigma': np.float64(0.38601682268927795)}}
+
+{ 'parameters': { 'mu': np.float64(0.26527754926963987),
+                  'sigma': np.float64(0.36591899250228765)}}
+
+{ 'parameters': { 'mu': np.float64(0.3747990198227863),
+                  'sigma': np.float64(0.37627903377877236)}}
+
+{ 'parameters': { 'mu': np.float64(0.4190003983078202),
+                  'sigma': np.float64(0.38480153478242796)}}
+
+{ 'parameters': { 'mu': np.float64(0.4119972708215657),
+                  'sigma': np.float64(0.3840529040834842)}}
+
+{ 'parameters': { 'mu': np.float64(0.41251463420681456),
+                  'sigma': np.float64(0.3935660150074257)}}
+
+{ 'parameters': { 'mu': np.float64(0.2266796111553518),
+                  'sigma': np.float64(0.372310417199417)}}
+
+{ 'parameters': { 'mu': np.float64(0.3254602973749392),
+                  'sigma': np.float64(0.3859986526386674)}}
+
+{ 'parameters': { 'mu': np.float64(0.2705450834087543),
+                  'sigma': np.float64(0.39880112453159977)}}
+
+{ 'parameters': { 'mu': np.float64(0.5995488528112796),
+                  'sigma': np.float64(0.4102293457783617)}}
+
+{ 'parameters': { 'mu': np.float64(0.49080643054152673),
+                  'sigma': np.float64(0.38910058239464396)}}
+
+{ 'parameters': { 'mu': np.float64(0.20105122384825047),
+                  'sigma': np.float64(0.38002775167879504)}}
+
+{ 'parameters': { 'mu': np.float64(0.24360534152016472),
+                  'sigma': np.float64(0.3742938226630174)}}
+
+{ 'parameters': { 'mu': np.float64(0.2945950931893103),
+                  'sigma': np.float64(0.37643799373595854)}}
+
+{ 'parameters': { 'mu': np.float64(0.26048865150588935),
+                  'sigma': np.float64(0.37726957603959554)}}
+
+{ 'parameters': { 'mu': np.float64(0.39588293226328086),
+                  'sigma': np.float64(0.3784791714690723)}}
+
+{ 'parameters': { 'mu': np.float64(0.3610940681121558),
+                  'sigma': np.float64(0.39663780440297963)}}
+
+{ 'parameters': { 'mu': np.float64(0.4747508693739349),
+                  'sigma': np.float64(0.3685162689580616)}}
+
+{ 'parameters': { 'mu': np.float64(0.2710102521819464),
+                  'sigma': np.float64(0.3797873189995262)}}
+
+{ 'parameters': { 'mu': np.float64(0.23730512136777526),
+                  'sigma': np.float64(0.3553561403079026)}}
+
+{ 'parameters': { 'mu': np.float64(0.21759673580407593),
+                  'sigma': np.float64(0.3877168281337596)}}
+
+{ 'parameters': { 'mu': np.float64(0.3830882789029194),
+                  'sigma': np.float64(0.3884686728397217)}}
+
+{ 'parameters': { 'mu': np.float64(0.3587654122883568),
+                  'sigma': np.float64(0.3724122307543972)}}
+
+{ 'parameters': { 'mu': np.float64(0.1078933613337596),
+                  'sigma': np.float64(0.37994017675117453)}}
+
+{ 'parameters': { 'mu': np.float64(0.41171601805009866),
+                  'sigma': np.float64(0.4141630485678663)}}
+
+{ 'parameters': { 'mu': np.float64(0.3997827632065606),
+                  'sigma': np.float64(0.36637309367649407)}}
+
+{ 'parameters': { 'mu': np.float64(0.3184138489427848),
+                  'sigma': np.float64(0.38397828829474107)}}
+
+{ 'parameters': { 'mu': np.float64(0.31372145181226063),
+                  'sigma': np.float64(0.38338607002629416)}}
+
+{ 'parameters': { 'mu': np.float64(0.32235206019815),
+                  'sigma': np.float64(0.3579017053703275)}}
+
+{ 'parameters': { 'mu': np.float64(0.25249788071899093),
+                  'sigma': np.float64(0.39830095300112034)}}
+
+{ 'parameters': { 'mu': np.float64(0.22070020695055403),
+                  'sigma': np.float64(0.38650956179701995)}}
+
+{ 'parameters': { 'mu': np.float64(0.2889736195742697),
+                  'sigma': np.float64(0.37164180843401917)}}
+
+{ 'parameters': { 'mu': np.float64(0.23309103421177224),
+                  'sigma': np.float64(0.37119689419470514)}}
+
+{ 'parameters': { 'mu': np.float64(0.32363424845242106),
+                  'sigma': np.float64(0.3852988667654659)}}
+
+{ 'parameters': { 'mu': np.float64(0.16591059531249608),
+                  'sigma': np.float64(0.3744515810389258)}}
+
+{ 'parameters': { 'mu': np.float64(0.44138237565437144),
+                  'sigma': np.float64(0.37575820304340113)}}
+
+{ 'parameters': { 'mu': np.float64(0.29512364132401664),
+                  'sigma': np.float64(0.3847353995400876)}}
+
+{ 'parameters': { 'mu': np.float64(0.5454730788308177),
+                  'sigma': np.float64(0.38807135456624753)}}
+
+{ 'parameters': { 'mu': np.float64(0.20847387090784772),
+                  'sigma': np.float64(0.38900852164941846)}}
+
+{ 'parameters': { 'mu': np.float64(0.4310449047904879),
+                  'sigma': np.float64(0.3738132741491869)}}
+
+{ 'parameters': { 'mu': np.float64(0.2874926874847372),
+                  'sigma': np.float64(0.3628519494384149)}}
+
+{ 'parameters': { 'mu': np.float64(0.28544054106162947),
+                  'sigma': np.float64(0.38179014087487606)}}
+
+{ 'parameters': { 'mu': np.float64(0.3929237475227515),
+                  'sigma': np.float64(0.37876584886477965)}}
+
+{ 'parameters': { 'mu': np.float64(0.24476103503537516),
+                  'sigma': np.float64(0.379440505043051)}}
+
+{ 'parameters': { 'mu': np.float64(0.1615476417770751),
+                  'sigma': np.float64(0.37699148140006206)}}
+
+{ 'parameters': { 'mu': np.float64(0.3498982179826881),
+                  'sigma': np.float64(0.37743364251471084)}}
+
+{ 'parameters': { 'mu': np.float64(0.12554770270785626),
+                  'sigma': np.float64(0.3903378773691213)}}
+
+{ 'parameters': { 'mu': np.float64(0.10766885806781576),
+                  'sigma': np.float64(0.3775727999412518)}}
+
+{ 'parameters': { 'mu': np.float64(0.30098436272361645),
+                  'sigma': np.float64(0.3763981026965987)}}
+
+{ 'parameters': { 'mu': np.float64(0.26431192923741276),
+                  'sigma': np.float64(0.3766771452648329)}}
+
+{ 'parameters': { 'mu': np.float64(0.3215351336706277),
+                  'sigma': np.float64(0.39112661279898947)}}
+
+{ 'parameters': { 'mu': np.float64(0.27598518911162995),
+                  'sigma': np.float64(0.3748048792229923)}}
+
+{ 'parameters': { 'mu': np.float64(0.341708095842896),
+                  'sigma': np.float64(0.36878703172263644)}}
+
+{ 'parameters': { 'mu': np.float64(0.17017123200091067),
+                  'sigma': np.float64(0.3691678766452618)}}
+
+{ 'parameters': { 'mu': np.float64(0.2986533535587326),
+                  'sigma': np.float64(0.37041188456535085)}}
+
+{ 'parameters': { 'mu': np.float64(0.08064407177450611),
+                  'sigma': np.float64(0.3820440559276553)}}
+
+{ 'parameters': { 'mu': np.float64(0.2357687863681005),
+                  'sigma': np.float64(0.37416306061919186)}}
+
+{ 'parameters': { 'mu': np.float64(0.38019237968643765),
+                  'sigma': np.float64(0.39266169689839264)}}
+
+{ 'parameters': { 'mu': np.float64(0.13739874231848448),
+                  'sigma': np.float64(0.3647803903435811)}}
+
+{ 'parameters': { 'mu': np.float64(0.20770702935491833),
+                  'sigma': np.float64(0.39814443335676875)}}
+
+{ 'parameters': { 'mu': np.float64(0.0550969850364941),
+                  'sigma': np.float64(0.4032375085102242)}}
+
+{ 'parameters': { 'mu': np.float64(0.13778295121797546),
+                  'sigma': np.float64(0.38677095821891355)}}
+
+{ 'parameters': { 'mu': np.float64(0.30535309301600155),
+                  'sigma': np.float64(0.38290697340655583)}}
+
+{ 'parameters': { 'mu': np.float64(0.32266923608688675),
+                  'sigma': np.float64(0.38768154156843193)}}
+
+{ 'parameters': { 'mu': np.float64(0.6249392878430344),
+                  'sigma': np.float64(0.37707212277552804)}}
+
+{ 'parameters': { 'mu': np.float64(0.18554261591702276),
+                  'sigma': np.float64(0.40230318255633657)}}
+
+{ 'parameters': { 'mu': np.float64(0.3521774970408558),
+                  'sigma': np.float64(0.3629497296231807)}}
+
+{ 'parameters': { 'mu': np.float64(0.24339195046266465),
+                  'sigma': np.float64(0.385654715428213)}}
+
+{ 'parameters': { 'mu': np.float64(0.039817823539988965),
+                  'sigma': np.float64(0.3992937289957149)}}
+
+{ 'parameters': { 'mu': np.float64(0.22735091378524308),
+                  'sigma': np.float64(0.3676511379730782)}}
+
+{ 'parameters': { 'mu': np.float64(0.26321619505941246),
+                  'sigma': np.float64(0.36130818352957117)}}
+
+{ 'parameters': { 'mu': np.float64(0.3141016631993348),
+                  'sigma': np.float64(0.3646361272623955)}}
+
+{ 'parameters': { 'mu': np.float64(0.4007112985838982),
+                  'sigma': np.float64(0.3787797409790293)}}
+
+{ 'parameters': { 'mu': np.float64(0.33266936627220767),
+                  'sigma': np.float64(0.37187306833315864)}}
+
+{ 'parameters': { 'mu': np.float64(0.3984688387601891),
+                  'sigma': np.float64(0.3832571754854058)}}
+
+{ 'parameters': { 'mu': np.float64(0.34334606155185937),
+                  'sigma': np.float64(0.39120284219153306)}}
+
+{ 'parameters': { 'mu': np.float64(0.13625594464784116),
+                  'sigma': np.float64(0.36685997078113985)}}
+
+{ 'parameters': { 'mu': np.float64(0.21241748584787096),
+                  'sigma': np.float64(0.38708340307189376)}}
+
+{ 'parameters': { 'mu': np.float64(0.18724538496819546),
+                  'sigma': np.float64(0.36970489818690744)}}
+
+{ 'parameters': { 'mu': np.float64(0.22843672563536896),
+                  'sigma': np.float64(0.38269601202077225)}}
+
+{ 'parameters': { 'mu': np.float64(0.2291573421377728),
+                  'sigma': np.float64(0.4052475235043808)}}
+
+{ 'parameters': { 'mu': np.float64(0.2688382251368642),
+                  'sigma': np.float64(0.4079396023451974)}}
+
+{ 'parameters': { 'mu': np.float64(0.3016684984344479),
+                  'sigma': np.float64(0.38970102246481414)}}
+
+{ 'parameters': { 'mu': np.float64(0.44959131406042674),
+                  'sigma': np.float64(0.37372657693594824)}}
+
+{ 'parameters': { 'mu': np.float64(0.35833349314547946),
+                  'sigma': np.float64(0.3603875121960151)}}
+
+{ 'parameters': { 'mu': np.float64(0.28632515956588556),
+                  'sigma': np.float64(0.3931423384242861)}}
+
+{ 'parameters': { 'mu': np.float64(0.4095179595198128),
+                  'sigma': np.float64(0.3770539734069833)}}
+
+{ 'parameters': { 'mu': np.float64(0.33654914624594967),
+                  'sigma': np.float64(0.40514906961704544)}}
+
+{ 'parameters': { 'mu': np.float64(0.44252380675894065),
+                  'sigma': np.float64(0.37283640331773)}}
+
+{ 'parameters': { 'mu': np.float64(0.36210374525264233),
+                  'sigma': np.float64(0.3836298950694933)}}
+
+{ 'parameters': { 'mu': np.float64(0.20921014142800756),
+                  'sigma': np.float64(0.3835764347447374)}}
+
+{ 'parameters': { 'mu': np.float64(0.2956901911882487),
+                  'sigma': np.float64(0.36514896279309256)}}
+
+{ 'parameters': { 'mu': np.float64(0.21050442613449755),
+                  'sigma': np.float64(0.3620727765051324)}}
+
+{ 'parameters': { 'mu': np.float64(0.08706705419199429),
+                  'sigma': np.float64(0.3728515849698171)}}
+
+{ 'parameters': { 'mu': np.float64(0.3465746842393251),
+                  'sigma': np.float64(0.3882762930209055)}}
+
+{ 'parameters': { 'mu': np.float64(0.374483230725422),
+                  'sigma': np.float64(0.3710227747182659)}}
+
+{ 'parameters': { 'mu': np.float64(0.3317280600619489),
+                  'sigma': np.float64(0.3887466047414852)}}
+
+{ 'parameters': { 'mu': np.float64(0.34205821439186096),
+                  'sigma': np.float64(0.3689344099429439)}}
+
+{ 'parameters': { 'mu': np.float64(0.4081424263983415),
+                  'sigma': np.float64(0.3834557282734345)}}
+
+{ 'parameters': { 'mu': np.float64(0.5552614841872112),
+                  'sigma': np.float64(0.36011200164959184)}}
+
+{ 'parameters': { 'mu': np.float64(0.19688528709853903),
+                  'sigma': np.float64(0.3860400193543469)}}
+
+{ 'parameters': { 'mu': np.float64(0.3637115350295578),
+                  'sigma': np.float64(0.38174733718888065)}}
+
+{ 'parameters': { 'mu': np.float64(0.1694784692278415),
+                  'sigma': np.float64(0.36085559324733346)}}
+
+{ 'parameters': { 'mu': np.float64(0.3226337151917531),
+                  'sigma': np.float64(0.3641351761834177)}}
+
+{ 'parameters': { 'mu': np.float64(0.14412814634258353),
+                  'sigma': np.float64(0.35101997741738217)}}
+
+{ 'parameters': { 'mu': np.float64(0.36874225992037146),
+                  'sigma': np.float64(0.38513096143540954)}}
+
+{ 'parameters': { 'mu': np.float64(0.40202382958137317),
+                  'sigma': np.float64(0.3828606184712478)}}
+
+{ 'parameters': { 'mu': np.float64(0.2841174067344802),
+                  'sigma': np.float64(0.3917648744231254)}}
+
+{ 'parameters': { 'mu': np.float64(0.37521743952634057),
+                  'sigma': np.float64(0.37863928933895163)}}
+
+{ 'parameters': { 'mu': np.float64(0.44116987359663573),
+                  'sigma': np.float64(0.3846297212654915)}}
+
+{ 'parameters': { 'mu': np.float64(0.24527462106157205),
+                  'sigma': np.float64(0.37658304147879895)}}
+
+{ 'parameters': { 'mu': np.float64(0.23267462392398758),
+                  'sigma': np.float64(0.38761328821269037)}}
+
+{ 'parameters': { 'mu': np.float64(0.4090861121029316),
+                  'sigma': np.float64(0.3675132421521727)}}
+
+{ 'parameters': { 'mu': np.float64(0.3441134037876026),
+                  'sigma': np.float64(0.3774050244796863)}}
+
+{ 'parameters': { 'mu': np.float64(0.18215088970096593),
+                  'sigma': np.float64(0.3888097699492312)}}
+
+{ 'parameters': { 'mu': np.float64(0.29240409109520415),
+                  'sigma': np.float64(0.38176415035100697)}}
+
+{ 'parameters': { 'mu': np.float64(0.2556244232014731),
+                  'sigma': np.float64(0.3717175504571004)}}
+
+{ 'parameters': { 'mu': np.float64(0.12920375690714456),
+                  'sigma': np.float64(0.3649094815893279)}}
+
+{ 'parameters': { 'mu': np.float64(0.10847891483530181),
+                  'sigma': np.float64(0.3793592557580335)}}
+
+{ 'parameters': { 'mu': np.float64(0.38016172252596164),
+                  'sigma': np.float64(0.3909955755950575)}}
+
+{ 'parameters': { 'mu': np.float64(0.1899303000938053),
+                  'sigma': np.float64(0.38768371214708497)}}
+
+{ 'parameters': { 'mu': np.float64(0.19142046751626413),
+                  'sigma': np.float64(0.3840947575324397)}}
+
+{ 'parameters': { 'mu': np.float64(0.26459470850577427),
+                  'sigma': np.float64(0.3776475737300326)}}
+
+{ 'parameters': { 'mu': np.float64(0.1367766488193215),
+                  'sigma': np.float64(0.3697396508625849)}}
+
+{ 'parameters': { 'mu': np.float64(0.5325489687589178),
+                  'sigma': np.float64(0.36824325537772984)}}
+
+{ 'parameters': { 'mu': np.float64(0.3545001911963831),
+                  'sigma': np.float64(0.37416471077511626)}}
+
+{ 'parameters': { 'mu': np.float64(0.4081520259112509),
+                  'sigma': np.float64(0.3736413286961413)}}
+
+{ 'parameters': { 'mu': np.float64(0.21024187155590385),
+                  'sigma': np.float64(0.3847802679954207)}}
+
+{ 'parameters': { 'mu': np.float64(0.3533156528241366),
+                  'sigma': np.float64(0.36557116204051265)}}
+
+{ 'parameters': { 'mu': np.float64(0.17874207521741955),
+                  'sigma': np.float64(0.3742591025869808)}}
+
+{ 'parameters': { 'mu': np.float64(0.21286985972302086),
+                  'sigma': np.float64(0.3853220408447987)}}
+
+{ 'parameters': { 'mu': np.float64(0.341986329545774),
+                  'sigma': np.float64(0.3850696575892339)}}
+
+{ 'parameters': { 'mu': np.float64(0.12940852230868866),
+                  'sigma': np.float64(0.3777840910831346)}}
+
+{ 'parameters': { 'mu': np.float64(0.16996620190194212),
+                  'sigma': np.float64(0.3669476718003934)}}
+
+{ 'parameters': { 'mu': np.float64(0.36149311638844794),
+                  'sigma': np.float64(0.35659250151735616)}}
+
+{ 'parameters': { 'mu': np.float64(0.4518455689672884),
+                  'sigma': np.float64(0.3904350258921713)}}
+
+{ 'parameters': { 'mu': np.float64(0.2541412176495729),
+                  'sigma': np.float64(0.3676312769373323)}}
+
+{ 'parameters': { 'mu': np.float64(0.49135172578395014),
+                  'sigma': np.float64(0.39559483491654557)}}
+
+{ 'parameters': { 'mu': np.float64(0.175631272355975),
+                  'sigma': np.float64(0.36067143897742243)}}
+
+{ 'parameters': { 'mu': np.float64(0.2751667708427635),
+                  'sigma': np.float64(0.3923414723770131)}}
+
+{ 'parameters': { 'mu': np.float64(0.2240329353954073),
+                  'sigma': np.float64(0.3741135602314974)}}
+
+{ 'parameters': { 'mu': np.float64(0.278106945917867),
+                  'sigma': np.float64(0.3742403927519156)}}
+
+{ 'parameters': { 'mu': np.float64(0.4074058795406652),
+                  'sigma': np.float64(0.36928214189760233)}}
+
+{ 'parameters': { 'mu': np.float64(0.3007513165018236),
+                  'sigma': np.float64(0.37690890221710155)}}
+
+{ 'parameters': { 'mu': np.float64(0.4157479606220479),
+                  'sigma': np.float64(0.3929256747413658)}}
+
+{ 'parameters': { 'mu': np.float64(0.34990083215421963),
+                  'sigma': np.float64(0.38979123767700546)}}
+
+{ 'parameters': { 'mu': np.float64(0.2794846682376362),
+                  'sigma': np.float64(0.36280432871632556)}}
+
+{ 'parameters': { 'mu': np.float64(0.4669962203368315),
+                  'sigma': np.float64(0.37505123350177144)}}
+
+{ 'parameters': { 'mu': np.float64(0.3231717881965388),
+                  'sigma': np.float64(0.37057423667916783)}}
+
+{ 'parameters': { 'mu': np.float64(0.26513338270624354),
+                  'sigma': np.float64(0.3846824711506556)}}
+
+{ 'parameters': { 'mu': np.float64(0.29379933912137146),
+                  'sigma': np.float64(0.37251814817795054)}}
+
+{ 'parameters': { 'mu': np.float64(0.15741100960912852),
+                  'sigma': np.float64(0.3839274654603898)}}
+
+{ 'parameters': { 'mu': np.float64(0.22857026961060667),
+                  'sigma': np.float64(0.37702788759248623)}}
+
+{ 'parameters': { 'mu': np.float64(0.295262586993963),
+                  'sigma': np.float64(0.3705259989012434)}}
+
+{ 'parameters': { 'mu': np.float64(0.4015170492960707),
+                  'sigma': np.float64(0.3683961610865647)}}
+
+{ 'parameters': { 'mu': np.float64(0.26674232627783856),
+                  'sigma': np.float64(0.4010803819438066)}}
+
+{ 'parameters': { 'mu': np.float64(0.443751313686335),
+                  'sigma': np.float64(0.3707026658845843)}}
+
+{ 'parameters': { 'mu': np.float64(0.27009399869442446),
+                  'sigma': np.float64(0.36486164013424666)}}
+
+{ 'parameters': { 'mu': np.float64(0.2689154413986518),
+                  'sigma': np.float64(0.37808825947499564)}}
+
+{ 'parameters': { 'mu': np.float64(0.4279546663781453),
+                  'sigma': np.float64(0.37634088805433846)}}
+
+{ 'parameters': { 'mu': np.float64(0.18664014503024978),
+                  'sigma': np.float64(0.3929242390045439)}}
+
+{ 'parameters': { 'mu': np.float64(0.33042670105754623),
+                  'sigma': np.float64(0.3717180054454425)}}
+
+{ 'parameters': { 'mu': np.float64(0.2603564293860182),
+                  'sigma': np.float64(0.3812882830411103)}}
+
+{ 'parameters': { 'mu': np.float64(0.29069534355936044),
+                  'sigma': np.float64(0.3763995671072715)}}
+
+{ 'parameters': { 'mu': np.float64(0.3617324216742183),
+                  'sigma': np.float64(0.39255474213615843)}}
+
+{ 'parameters': { 'mu': np.float64(0.26952484666589666),
+                  'sigma': np.float64(0.36982358651085134)}}
+
+{ 'parameters': { 'mu': np.float64(0.1390993410429667),
+                  'sigma': np.float64(0.3888412392467383)}}
+
+{ 'parameters': { 'mu': np.float64(0.2311061659345163),
+                  'sigma': np.float64(0.3631446074047037)}}
+
+{ 'parameters': { 'mu': np.float64(0.29915725422335),
+                  'sigma': np.float64(0.3813775284709596)}}
+
+{ 'parameters': { 'mu': np.float64(0.3322387306333784),
+                  'sigma': np.float64(0.35861052836518115)}}
+
+{ 'parameters': { 'mu': np.float64(0.36390472075607916),
+                  'sigma': np.float64(0.4104243669150296)}}
+
+{ 'parameters': { 'mu': np.float64(0.4290616292478225),
+                  'sigma': np.float64(0.3730755931452785)}}
+
+{ 'parameters': { 'mu': np.float64(0.317343889242015),
+                  'sigma': np.float64(0.3812125282190826)}}
+
+{ 'parameters': { 'mu': np.float64(0.2498608352297473),
+                  'sigma': np.float64(0.3762077103663648)}}
+
+{ 'parameters': { 'mu': np.float64(0.2568927661480629),
+                  'sigma': np.float64(0.39496492823052504)}}
+
+{ 'parameters': { 'mu': np.float64(0.1608640633311631),
+                  'sigma': np.float64(0.3758189948139433)}}
+
+{ 'parameters': { 'mu': np.float64(0.30002161337457833),
+                  'sigma': np.float64(0.37708960731159596)}}
+
+{ 'parameters': { 'mu': np.float64(0.22971518384781747),
+                  'sigma': np.float64(0.38313750641698013)}}
+
+{ 'parameters': { 'mu': np.float64(0.2690713793903167),
+                  'sigma': np.float64(0.4034818158675795)}}
+
+{ 'parameters': { 'mu': np.float64(0.3480833127545554),
+                  'sigma': np.float64(0.38261294191252015)}}
+
+{ 'parameters': { 'mu': np.float64(0.08604460138554104),
+                  'sigma': np.float64(0.3743149609288925)}}
+
+{ 'parameters': { 'mu': np.float64(0.08490653644446004),
+                  'sigma': np.float64(0.3924725329206288)}}
+
+{ 'parameters': { 'mu': np.float64(0.19518443923686496),
+                  'sigma': np.float64(0.360194090345939)}}
+
+{ 'parameters': { 'mu': np.float64(0.11476994935008138),
+                  'sigma': np.float64(0.3749486844262576)}}
+
+{ 'parameters': { 'mu': np.float64(0.3565902040788552),
+                  'sigma': np.float64(0.3698506592696889)}}
+
+{ 'parameters': { 'mu': np.float64(0.33420786842550076),
+                  'sigma': np.float64(0.3718730341451721)}}
+
+{ 'parameters': { 'mu': np.float64(0.3029601369506252),
+                  'sigma': np.float64(0.39227062464207135)}}
+
+{ 'parameters': { 'mu': np.float64(0.19356876208546386),
+                  'sigma': np.float64(0.36593395081478014)}}
+
+{ 'parameters': { 'mu': np.float64(0.4398981505379011),
+                  'sigma': np.float64(0.3794981506874884)}}
+
+{ 'parameters': { 'mu': np.float64(0.16545072692698637),
+                  'sigma': np.float64(0.380334827949918)}}
+
+{ 'parameters': { 'mu': np.float64(0.5914567006215201),
+                  'sigma': np.float64(0.3756667322144816)}}
+
+{ 'parameters': { 'mu': np.float64(0.09696444369495799),
+                  'sigma': np.float64(0.364260786456825)}}
+
+{ 'parameters': { 'mu': np.float64(0.28351274433207374),
+                  'sigma': np.float64(0.35394070422093044)}}
+
+{ 'parameters': { 'mu': np.float64(0.590451419223395),
+                  'sigma': np.float64(0.3974572537718982)}}
+
+{ 'parameters': { 'mu': np.float64(0.3501899612376428),
+                  'sigma': np.float64(0.37139731988774805)}}
+
+{ 'parameters': { 'mu': np.float64(0.38052831477984034),
+                  'sigma': np.float64(0.3665314482693777)}}
+
+{ 'parameters': { 'mu': np.float64(0.0703815250967688),
+                  'sigma': np.float64(0.3725228492703236)}}
+
+{ 'parameters': { 'mu': np.float64(0.2933984332299787),
+                  'sigma': np.float64(0.35740362754021704)}}
+
+{ 'parameters': { 'mu': np.float64(0.21043928115044064),
+                  'sigma': np.float64(0.4073074504461846)}}
+
+{ 'parameters': { 'mu': np.float64(0.3067594307739902),
+                  'sigma': np.float64(0.3917521069460495)}}
+
+{ 'parameters': { 'mu': np.float64(0.4715231511873814),
+                  'sigma': np.float64(0.37677224110714364)}}
+
+{ 'parameters': { 'mu': np.float64(0.24029086949710762),
+                  'sigma': np.float64(0.36319998747904314)}}
+
+{ 'parameters': { 'mu': np.float64(0.23790140401148202),
+                  'sigma': np.float64(0.39219572987692347)}}
+
+{ 'parameters': { 'mu': np.float64(0.37522526141210333),
+                  'sigma': np.float64(0.3962622721619176)}}
+
+{ 'parameters': { 'mu': np.float64(0.29863525913330213),
+                  'sigma': np.float64(0.38685040902715584)}}
+
+{ 'parameters': { 'mu': np.float64(0.34318891597843176),
+                  'sigma': np.float64(0.3860698173484114)}}
+
+{ 'parameters': { 'mu': np.float64(0.32070650220859165),
+                  'sigma': np.float64(0.38585041789375535)}}
+
+{ 'parameters': { 'mu': np.float64(0.23890584491125366),
+                  'sigma': np.float64(0.36937118983041006)}}
+
+{ 'parameters': { 'mu': np.float64(0.16623736167300457),
+                  'sigma': np.float64(0.3860050847502348)}}
+
+{ 'parameters': { 'mu': np.float64(0.2409976818015993),
+                  'sigma': np.float64(0.3740595460677952)}}
+
+{ 'parameters': { 'mu': np.float64(0.16973182909286127),
+                  'sigma': np.float64(0.381455917086309)}}
+
+{ 'parameters': { 'mu': np.float64(0.37359364041972953),
+                  'sigma': np.float64(0.37275511916990633)}}
+
+{ 'parameters': { 'mu': np.float64(0.29441263705513177),
+                  'sigma': np.float64(0.3872767816248855)}}
+
+{ 'parameters': { 'mu': np.float64(0.2903954802330698),
+                  'sigma': np.float64(0.38745691142050936)}}
+
+{ 'parameters': { 'mu': np.float64(0.47300908872599556),
+                  'sigma': np.float64(0.36843647474664604)}}
+
+{ 'parameters': { 'mu': np.float64(0.3767177958889313),
+                  'sigma': np.float64(0.3725208190866809)}}
+
+{ 'parameters': { 'mu': np.float64(0.4017482500227192),
+                  'sigma': np.float64(0.3671330098139033)}}
+
+{ 'parameters': { 'mu': np.float64(0.16434533944341617),
+                  'sigma': np.float64(0.39928693756933886)}}
+
+{ 'parameters': { 'mu': np.float64(0.21414480891736692),
+                  'sigma': np.float64(0.3840305160472361)}}
+
+{ 'parameters': { 'mu': np.float64(0.2529896345576261),
+                  'sigma': np.float64(0.40582179004552293)}}
+
+{ 'parameters': { 'mu': np.float64(0.38361765535089765),
+                  'sigma': np.float64(0.3769626217745081)}}
+
+{ 'parameters': { 'mu': np.float64(0.37234042243949766),
+                  'sigma': np.float64(0.39270764479450776)}}
+
+{ 'parameters': { 'mu': np.float64(0.30548261905050195),
+                  'sigma': np.float64(0.40198828279383625)}}
+
+{ 'parameters': { 'mu': np.float64(0.301842513497578),
+                  'sigma': np.float64(0.37050802116513726)}}
+
+{ 'parameters': { 'mu': np.float64(0.20789402531368592),
+                  'sigma': np.float64(0.36747843807786373)}}
+
+{ 'parameters': { 'mu': np.float64(0.4071725896353645),
+                  'sigma': np.float64(0.3863033957317518)}}
+
+{ 'parameters': { 'mu': np.float64(0.2969090686895006),
+                  'sigma': np.float64(0.36517920418679006)}}
+
+{ 'parameters': { 'mu': np.float64(0.38546439530168064),
+                  'sigma': np.float64(0.3639464945318902)}}
+
+{ 'parameters': { 'mu': np.float64(0.3324028030681051),
+                  'sigma': np.float64(0.3592608901794169)}}
+
+{ 'parameters': { 'mu': np.float64(0.4433718182969103),
+                  'sigma': np.float64(0.365986949463952)}}
+
+{ 'parameters': { 'mu': np.float64(0.40456008325556725),
+                  'sigma': np.float64(0.3894775786567718)}}
+
+{ 'parameters': { 'mu': np.float64(0.31854176321925565),
+                  'sigma': np.float64(0.40353418590840445)}}
+
+{ 'parameters': { 'mu': np.float64(0.30710673333333893),
+                  'sigma': np.float64(0.3700410086705337)}}
+
+{ 'parameters': { 'mu': np.float64(0.3858422497663507),
+                  'sigma': np.float64(0.38981581927624576)}}
+
+{ 'parameters': { 'mu': np.float64(0.27983393148944236),
+                  'sigma': np.float64(0.36140195570821226)}}
+
+{ 'parameters': { 'mu': np.float64(0.2855652671579891),
+                  'sigma': np.float64(0.3660710565488413)}}
+
+{ 'parameters': { 'mu': np.float64(0.23211988785296261),
+                  'sigma': np.float64(0.36876354004221235)}}
+
+{ 'parameters': { 'mu': np.float64(0.1287513429499058),
+                  'sigma': np.float64(0.3785566125229838)}}
+
+{ 'parameters': { 'mu': np.float64(0.2730234422623168),
+                  'sigma': np.float64(0.3759805238604061)}}
+
+{ 'parameters': { 'mu': np.float64(0.14736409492531888),
+                  'sigma': np.float64(0.39207223549658105)}}
+
+{ 'parameters': { 'mu': np.float64(0.3834320768035192),
+                  'sigma': np.float64(0.3645166672308704)}}
+

@@ -1,0 +1,357 @@
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.406661968490135),
+                  'mu': np.float64(0.15899310912464257),
+                  'nu': np.float64(-0.0007934273694614821),
+                  'omega': np.float64(0.04036639071703493)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.030890886512985),
+                  'mu': np.float64(0.10102148878068375),
+                  'nu': np.float64(-0.000911413571126766),
+                  'omega': np.float64(0.04241237983246045)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(3.3980641992117286),
+                  'mu': np.float64(0.06547042266931462),
+                  'nu': np.float64(-0.0018983819097412595),
+                  'omega': np.float64(0.05996004024873975)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.723832470981994),
+                  'mu': np.float64(0.1508221225365546),
+                  'nu': np.float64(-0.0007459414506347556),
+                  'omega': np.float64(0.03878049421903182)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.344324862550166),
+                  'mu': np.float64(0.14603979704487716),
+                  'nu': np.float64(-0.0007370354477056362),
+                  'omega': np.float64(0.03808720905050489)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.992204066472782),
+                  'mu': np.float64(0.04715399073933051),
+                  'nu': np.float64(-0.0007599409998987933),
+                  'omega': np.float64(0.038706662426393056)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(2.4844484981242325),
+                  'mu': np.float64(0.14955300355911064),
+                  'nu': np.float64(-0.0012923520460870694),
+                  'omega': np.float64(0.05099889900891803)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.859479756102927),
+                  'mu': np.float64(0.10099384929598604),
+                  'nu': np.float64(-0.0008538619721778159),
+                  'omega': np.float64(0.03979574849768606)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(8.994787938235715),
+                  'mu': np.float64(0.17259601170351901),
+                  'nu': np.float64(-0.0006792691874601049),
+                  'omega': np.float64(0.03647337222359569)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(1.8903731339445429),
+                  'mu': np.float64(0.1134162680297967),
+                  'nu': np.float64(-0.002906557969480311),
+                  'omega': np.float64(0.07180009166287328)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.935010763695822),
+                  'mu': np.float64(0.022651066963118013),
+                  'nu': np.float64(-0.0007273557365552344),
+                  'omega': np.float64(0.0372231475902089)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.42516339500156),
+                  'mu': np.float64(0.30650389718748544),
+                  'nu': np.float64(-0.0006027930490636364),
+                  'omega': np.float64(0.037255610600382606)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.039403953432366),
+                  'mu': np.float64(0.36170949377906514),
+                  'nu': np.float64(-0.0005703131919987048),
+                  'omega': np.float64(0.037018332476587534)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.1433294898948665),
+                  'mu': np.float64(0.07278825765075465),
+                  'nu': np.float64(-0.0010319430122683047),
+                  'omega': np.float64(0.044562524932056244)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.860426471114758),
+                  'mu': np.float64(0.1560279797359871),
+                  'nu': np.float64(-0.000711478318409991),
+                  'omega': np.float64(0.03967871792657804)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.234248603487773),
+                  'mu': np.float64(0.13608246658695128),
+                  'nu': np.float64(-0.0007637572537206913),
+                  'omega': np.float64(0.03898956798897612)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(8.031504715864056),
+                  'mu': np.float64(0.23178065674648415),
+                  'nu': np.float64(-0.0007448307203503597),
+                  'omega': np.float64(0.03966853871986567)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(8.208840187913832),
+                  'mu': np.float64(0.08929004934980961),
+                  'nu': np.float64(-0.0007254894614512811),
+                  'omega': np.float64(0.03730199277682865)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.773257835509107),
+                  'mu': np.float64(0.10098336875308507),
+                  'nu': np.float64(-0.000845753472515511),
+                  'omega': np.float64(0.041125297613473576)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.527608882058),
+                  'mu': np.float64(0.19496791471973413),
+                  'nu': np.float64(-0.0008323309326917244),
+                  'omega': np.float64(0.041712320752815946)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(4.4114838381317325),
+                  'mu': np.float64(0.14881808539495875),
+                  'nu': np.float64(-0.0008786167723273496),
+                  'omega': np.float64(0.042918299395266035)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.181323163222066),
+                  'mu': np.float64(0.21665964504733867),
+                  'nu': np.float64(-0.000890106435796896),
+                  'omega': np.float64(0.04310720869971666)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.341230460327622),
+                  'mu': np.float64(0.15813684072664574),
+                  'nu': np.float64(-0.000826163365078842),
+                  'omega': np.float64(0.041782935172335986)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(4.258382803281737),
+                  'mu': np.float64(0.15838873585439886),
+                  'nu': np.float64(-0.0009191373184252046),
+                  'omega': np.float64(0.04506260445227529)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.44896210511328),
+                  'mu': np.float64(0.06299109110548667),
+                  'nu': np.float64(-0.0009871721808976219),
+                  'omega': np.float64(0.042992861514536254)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.077855296999381),
+                  'mu': np.float64(0.23143774741864986),
+                  'nu': np.float64(-0.0007033128118661661),
+                  'omega': np.float64(0.03845350006993336)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.063654890541099),
+                  'mu': np.float64(0.25171012273796517),
+                  'nu': np.float64(-0.0006579112797272718),
+                  'omega': np.float64(0.0389770997291687)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.577332235754506),
+                  'mu': np.float64(0.31995922910697777),
+                  'nu': np.float64(-0.0005156365136849912),
+                  'omega': np.float64(0.03520021501595601)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.882413409546333),
+                  'mu': np.float64(0.1509063240842854),
+                  'nu': np.float64(-0.0009311355091544849),
+                  'omega': np.float64(0.04303623325946872)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.421516279589181),
+                  'mu': np.float64(0.29568064321861415),
+                  'nu': np.float64(-0.0006855081259251587),
+                  'omega': np.float64(0.039532562557043335)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(4.852025374367521),
+                  'mu': np.float64(0.15894038336595398),
+                  'nu': np.float64(-0.0009723258254997745),
+                  'omega': np.float64(0.04411629762822243)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(2.0516620375337125),
+                  'mu': np.float64(0.12513226382982706),
+                  'nu': np.float64(-0.0021900637330742505),
+                  'omega': np.float64(0.06766133117293636)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.879901353046807),
+                  'mu': np.float64(0.09600117088192522),
+                  'nu': np.float64(-0.0007248349421331415),
+                  'omega': np.float64(0.037745393034161745)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.97249202211205),
+                  'mu': np.float64(0.324938576807957),
+                  'nu': np.float64(-0.0006650374764534455),
+                  'omega': np.float64(0.0393279195979995)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.427232003374256),
+                  'mu': np.float64(0.1905128908559928),
+                  'nu': np.float64(-0.0006202574610809198),
+                  'omega': np.float64(0.03516715581934589)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.063029013830105),
+                  'mu': np.float64(0.11667503133116323),
+                  'nu': np.float64(-0.0009563480466550532),
+                  'omega': np.float64(0.04396472880262513)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(4.981558697758919),
+                  'mu': np.float64(0.09482565756780162),
+                  'nu': np.float64(-0.0008716756446209661),
+                  'omega': np.float64(0.04039445813436854)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.318292570159515),
+                  'mu': np.float64(0.14865886816358387),
+                  'nu': np.float64(-0.0008941544198741123),
+                  'omega': np.float64(0.04301510717466576)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.775550440128017),
+                  'mu': np.float64(0.3567981857292122),
+                  'nu': np.float64(-0.0004794885810701799),
+                  'omega': np.float64(0.034981908340614105)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.979196564338709),
+                  'mu': np.float64(0.12628830322792148),
+                  'nu': np.float64(-0.0008739780856627373),
+                  'omega': np.float64(0.0416793865228333)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(3.090669646854791),
+                  'mu': np.float64(0.10991436993858114),
+                  'nu': np.float64(-0.002901257800033878),
+                  'omega': np.float64(0.07694035866646588)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(4.8164622730643805),
+                  'mu': np.float64(0.17091412441854076),
+                  'nu': np.float64(-0.001095071799563919),
+                  'omega': np.float64(0.04783500064171166)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(0.8689143743509661),
+                  'mu': np.float64(0.12398266656369428),
+                  'nu': np.float64(-0.002827901423498649),
+                  'omega': np.float64(0.07345235946219943)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.343853258159866),
+                  'mu': np.float64(0.10517193968964027),
+                  'nu': np.float64(-0.0010864729025073338),
+                  'omega': np.float64(0.04535239638547592)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.173784404647882),
+                  'mu': np.float64(0.2651789705375007),
+                  'nu': np.float64(-0.0005475190321360812),
+                  'omega': np.float64(0.037291687866774045)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.891808529762465),
+                  'mu': np.float64(0.3308599650173226),
+                  'nu': np.float64(-0.0007742531760794881),
+                  'omega': np.float64(0.04116030185591482)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.196727459930667),
+                  'mu': np.float64(0.19891939538398068),
+                  'nu': np.float64(-0.0008265697172053573),
+                  'omega': np.float64(0.042958601439423504)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(4.6517978684387025),
+                  'mu': np.float64(0.22909762847608311),
+                  'nu': np.float64(-0.0006649005527053234),
+                  'omega': np.float64(0.03687882496915636)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(7.4632634961146),
+                  'mu': np.float64(0.3413405076304124),
+                  'nu': np.float64(-0.000578271360243933),
+                  'omega': np.float64(0.037063464271880606)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(5.9456959774278575),
+                  'mu': np.float64(0.19572352243018812),
+                  'nu': np.float64(-0.0009016571155044676),
+                  'omega': np.float64(0.043110552358561066)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'lamb': np.float64(6.350045080045761),
+                  'mu': np.float64(0.1324207807899319),
+                  'nu': np.float64(-0.0010226835961917248),
+                  'omega': np.float64(0.04543987384788207)},
+  'success': True}
+

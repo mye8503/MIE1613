@@ -1,0 +1,459 @@
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.506802714640351),
+                  'mu': np.float64(0.11639913242170842),
+                  'rho': np.float64(-0.09319992757228882),
+                  'theta': np.float64(0.15430065721153813),
+                  'v0': np.float64(0.033699973888722146),
+                  'xi': np.float64(0.2871013311311857)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068017603928845),
+                  'mu': np.float64(0.11640044528889062),
+                  'rho': np.float64(-0.09319995303200022),
+                  'theta': np.float64(0.15430042618924264),
+                  'v0': np.float64(0.033699983067330554),
+                  'xi': np.float64(0.28710086321337797)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.506801651792956),
+                  'mu': np.float64(0.116399472099606),
+                  'rho': np.float64(-0.09320042831617421),
+                  'theta': np.float64(0.15430039989731567),
+                  'v0': np.float64(0.03370045692417657),
+                  'xi': np.float64(0.28710080996111154)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068031362159557),
+                  'mu': np.float64(0.1163989976893699),
+                  'rho': np.float64(-0.09320081323268431),
+                  'theta': np.float64(0.15430075927454306),
+                  'v0': np.float64(0.03370086754994794),
+                  'xi': np.float64(0.2870997512179545)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5067999408797286),
+                  'mu': np.float64(0.11639995590468276),
+                  'rho': np.float64(-0.0932000357770856),
+                  'theta': np.float64(0.15430003340326925),
+                  'v0': np.float64(0.03370003816670106),
+                  'xi': np.float64(0.28709998905516626)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068015123524303),
+                  'mu': np.float64(0.11640038254740853),
+                  'rho': np.float64(-0.09319995964982065),
+                  'theta': np.float64(0.15430036613891285),
+                  'v0': np.float64(0.033699985453154224),
+                  'xi': np.float64(0.28710074158607524)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068080421493075),
+                  'mu': np.float64(0.11640203425029436),
+                  'rho': np.float64(-0.093202085359797),
+                  'theta': np.float64(0.1543019469957831),
+                  'v0': np.float64(0.03370222464470285),
+                  'xi': np.float64(0.28710394348950796)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.506800488406205),
+                  'mu': np.float64(0.11639984390911273),
+                  'rho': np.float64(-0.09320012664558017),
+                  'theta': np.float64(0.15430011824262213),
+                  'v0': np.float64(0.03370013510446468),
+                  'xi': np.float64(0.2871002394912942)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068001041161816),
+                  'mu': np.float64(0.1164000263360409),
+                  'rho': np.float64(-0.09319999722213784),
+                  'theta': np.float64(0.15430002520641667),
+                  'v0': np.float64(0.03369999899853896),
+                  'xi': np.float64(0.2871000510536492)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5067997498071874),
+                  'mu': np.float64(0.11640014769532941),
+                  'rho': np.float64(-0.09320015140609934),
+                  'theta': np.float64(0.15430014136027623),
+                  'v0': np.float64(0.03369999438369956),
+                  'xi': np.float64(0.28709995368223656)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068001229064734),
+                  'mu': np.float64(0.11639996072003121),
+                  'rho': np.float64(-0.09320003187011441),
+                  'theta': np.float64(0.15430002975552634),
+                  'v0': np.float64(0.03370003399877628),
+                  'xi': np.float64(0.28710006026751933)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.506801169580653),
+                  'mu': np.float64(0.11639962621096964),
+                  'rho': np.float64(-0.0931999687951114),
+                  'theta': np.float64(0.15430028315423056),
+                  'v0': np.float64(0.03369998875016892),
+                  'xi': np.float64(0.2870999072223752)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068008733080671),
+                  'mu': np.float64(0.11640022090204058),
+                  'rho': np.float64(-0.09320022645209186),
+                  'theta': np.float64(0.15429996167464596),
+                  'v0': np.float64(0.0336999915999224),
+                  'xi': np.float64(0.2870999307243601)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068154222286783),
+                  'mu': np.float64(0.11639507117368128),
+                  'rho': np.float64(-0.09319958852865201),
+                  'theta': np.float64(0.1543037337051395),
+                  'v0': np.float64(0.033699851658398144),
+                  'xi': np.float64(0.2870987766232776)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068004455237038),
+                  'mu': np.float64(0.11640011269459087),
+                  'rho': np.float64(-0.09319998811324597),
+                  'theta': np.float64(0.15430010786081427),
+                  'v0': np.float64(0.033700123242171975),
+                  'xi': np.float64(0.2871002184637446)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5067999999998543),
+                  'mu': np.float64(0.11639999999989133),
+                  'rho': np.float64(-0.09320000000008818),
+                  'theta': np.float64(0.15430000000008232),
+                  'v0': np.float64(0.03369999999999673),
+                  'xi': np.float64(0.28709999999997304)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068017589549518),
+                  'mu': np.float64(0.11639943785145189),
+                  'rho': np.float64(-0.09319995307036485),
+                  'theta': np.float64(0.1543004258411207),
+                  'v0': np.float64(0.03370048656766575),
+                  'xi': np.float64(0.2870998604699367)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068001979629215),
+                  'mu': np.float64(0.11639993673256453),
+                  'rho': np.float64(-0.09319999471826856),
+                  'theta': np.float64(0.15430004792661248),
+                  'v0': np.float64(0.03369999809585648),
+                  'xi': np.float64(0.28709998429648304)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068000128166938),
+                  'mu': np.float64(0.11639999590388268),
+                  'rho': np.float64(-0.09320000332341731),
+                  'theta': np.float64(0.154299999437536),
+                  'v0': np.float64(0.033699999876720226),
+                  'xi': np.float64(0.2870999989833088)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068011185192858),
+                  'mu': np.float64(0.11640028292787159),
+                  'rho': np.float64(-0.09319997015744949),
+                  'theta': np.float64(0.15430027079232797),
+                  'v0': np.float64(0.033700309408332185),
+                  'xi': np.float64(0.28710054846893535)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068026036764148),
+                  'mu': np.float64(0.11640065859626711),
+                  'rho': np.float64(-0.09319993053285187),
+                  'theta': np.float64(0.15430063034728733),
+                  'v0': np.float64(0.033700720237180744),
+                  'xi': np.float64(0.2871012767197215)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068041798542606),
+                  'mu': np.float64(0.11640105728822418),
+                  'rho': np.float64(-0.09319988847978442),
+                  'theta': np.float64(0.15430101193826526),
+                  'v0': np.float64(0.03370115624446698),
+                  'xi': np.float64(0.28710204960276053)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068008063152987),
+                  'mu': np.float64(0.11639974230779813),
+                  'rho': np.float64(-0.09320020908061309),
+                  'theta': np.float64(0.15430019520807517),
+                  'v0': np.float64(0.03370022304548072),
+                  'xi': np.float64(0.28710039537887194)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5068),
+                  'mu': np.float64(0.1164),
+                  'rho': np.float64(-0.0932),
+                  'theta': np.float64(0.1543),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(0.2871)},
+  'success': True}
+
+{ 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH',
+  'parameters': { 'kappa': np.float64(1.5067999999996244),
+                  'mu': np.float64(0.11639999999971998),
+                  'rho': np.float64(-0.09320000000022721),
+                  'theta': np.float64(0.15430000000021213),
+                  'v0': np.float64(0.03369999999999157),
+                  'xi': np.float64(0.2870999999999305)},
+  'success': True}
+

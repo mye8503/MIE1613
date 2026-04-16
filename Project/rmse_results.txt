@@ -1,0 +1,98 @@
+N=1
+GBM less_vol_interpolated 512.1314970117063
+Heston less_vol_interpolated 324.6628764914338
+Merton less_vol_interpolated 113.2213370821178
+SVJ less_vol_interpolated 342.6373457693679
+
+GBM less_vol_interpolated_6months 281.9715054249869
+Heston less_vol_interpolated_6months 188.17381701863798
+Merton less_vol_interpolated_6months 83.3074655427283
+SVJ less_vol_interpolated_6months 161.92524225052694
+
+GBM less_vol_interpolated_3months 153.40380995444403
+Heston less_vol_interpolated_3months 145.20035259234498
+Merton less_vol_interpolated_3months 96.704003697401
+SVJ less_vol_interpolated_3months 94.85662687051722
+
+GBM vol_interpolated 96.76246270080748
+Heston vol_interpolated 99.60534449504455
+Merton vol_interpolated 71.72537800284829
+SVJ vol_interpolated 120.84878164691119
+
+GBM vol_interpolated_6months 56.51203175570981
+Heston vol_interpolated_6months 64.74803424386005
+Merton vol_interpolated_6months 29.62082414600082
+SVJ vol_interpolated_6months 125.6714570007379
+
+GBM vol_interpolated_3months 33.500242654623634
+Heston vol_interpolated_3months 35.9283939166224
+Merton vol_interpolated_3months 25.360872390161422
+SVJ vol_interpolated_3months 43.644871857057375
+
+GBM new_data 21.059344757115117
+Heston new_data 30.917950652566944
+Merton new_data 20.117643769881944
+SVJ new_data 33.62444701141839
+
+GBM new_data_6months 28.072926361948966
+Heston new_data_6months 26.347257433485222
+Merton new_data_6months 13.403387428971596
+SVJ new_data_6months 18.005556011004266
+
+GBM new_data_3months 15.137243729518088
+Heston new_data_3months 19.203222984666056
+Merton new_data_3months 9.714528098061109
+SVJ new_data_3months 22.22189112848674
+
+
+N=10000
+GBM less_vol_interpolated 274.9527880451309
+Heston less_vol_interpolated 277.3973605867635
+Merton less_vol_interpolated 166.4664547461578
+SVJ less_vol_interpolated 324.25359855204283
+
+less_vol_interpolated_6months
+GBM less_vol_interpolated_6months 200.21720701474027
+Heston less_vol_interpolated_6months 210.84807472987683
+Merton less_vol_interpolated_6months 128.07179240570312
+SVJ less_vol_interpolated_6months 232.346079052027
+
+less_vol_interpolated_3months
+GBM less_vol_interpolated_3months 168.92349649120743
+Heston less_vol_interpolated_3months 134.46635396694668
+Merton less_vol_interpolated_3months 153.03202579405084
+SVJ less_vol_interpolated_3months 171.55985493654848
+
+GBM vol_interpolated 135.48526214764263
+Heston vol_interpolated 129.06709943853502
+Merton vol_interpolated 72.39789432982815
+SVJ vol_interpolated 129.8740992984672
+
+vol_interpolated_6months
+GBM vol_interpolated_6months 63.535267332584695
+Heston vol_interpolated_6months 70.65809084881431
+Merton vol_interpolated_6months 40.18623383237835
+SVJ vol_interpolated_6months 69.95401976549691
+
+vol_interpolated_3months
+GBM vol_interpolated_3months 45.00583024507942
+Heston vol_interpolated_3months 54.268115484574366
+Merton vol_interpolated_3months 32.726058735223226
+SVJ vol_interpolated_3months 53.283818342254484
+
+GBM new_data 33.114616657868034
+Heston new_data 33.93087570099093
+Merton new_data 22.06522927304602
+SVJ new_data 33.40493971422062
+
+new_data_6months
+GBM new_data_6months 22.762255418852632
+Heston new_data_6months 22.607768157503724
+Merton new_data_6months 16.735929951196105
+SVJ new_data_6months 22.79903307237776
+
+new_data_3months
+GBM new_data_3months 16.61850804094654
+Heston new_data_3months 18.409990253666148
+Merton new_data_3months 11.417739873543944
+SVJ new_data_3months 16.2555437899381

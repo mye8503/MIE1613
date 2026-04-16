@@ -1,0 +1,459 @@
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.05506859499872743),
+                  'v0': np.float64(0.09259020718565959),
+                  'xi': np.float64(0.30083608904988457)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.09328538479158127),
+                  'v0': np.float64(0.08942808508291705),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.11068764249113046),
+                  'v0': np.float64(0.41566600000000004),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(1.1164),
+                  'rho': np.float64(-0.09249011656764035),
+                  'theta': np.float64(0.07296127808032817),
+                  'v0': np.float64(0.07403456886085669),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.1833699364090526),
+                  'theta': np.float64(0.07944739957249435),
+                  'v0': np.float64(0.11740460532262986),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.07360634959319416),
+                  'v0': np.float64(0.027250855217676437),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.09423504167643187),
+                  'v0': np.float64(0.0769999980795083),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.10347941919459192),
+                  'v0': np.float64(0.02602995333861715),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.09811497714902867),
+                  'theta': np.float64(0.10022363286123345),
+                  'v0': np.float64(0.020092648855820107),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.0815406868175518),
+                  'v0': np.float64(0.19189733013936028),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.08093546629920932),
+                  'v0': np.float64(0.19057188914966441),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.214068354147966),
+                  'theta': np.float64(0.12916571029356705),
+                  'v0': np.float64(0.2102976394232034),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.711233974844),
+                  'theta': np.float64(0.07991542147759932),
+                  'v0': np.float64(0.0324221047928554),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.711233974844),
+                  'theta': np.float64(0.10039562742364765),
+                  'v0': np.float64(0.033251117036894276),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.09640610312277242),
+                  'v0': np.float64(0.04033882446802059),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.09581827608727532),
+                  'v0': np.float64(0.0977649428073826),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(1.1164),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.1096525426923079),
+                  'v0': np.float64(0.08755897148323413),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.0883690884736974),
+                  'theta': np.float64(0.06801672198423933),
+                  'v0': np.float64(0.0434439332286628),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.0633648236241452),
+                  'v0': np.float64(0.0900236519834074),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.05269802515600003),
+                  'theta': np.float64(0.06893281902801174),
+                  'v0': np.float64(0.15566829809089242),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(1.252174285924721),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.711233974844),
+                  'theta': np.float64(0.06638023183149985),
+                  'v0': np.float64(0.04758585521187897),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.711233974844),
+                  'theta': np.float64(0.0759721163058461),
+                  'v0': np.float64(0.07177577304850223),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.09062910229602622),
+                  'v0': np.float64(0.04299998585734717),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.09201375895492762),
+                  'theta': np.float64(0.14488767781686107),
+                  'v0': np.float64(0.10334571224284883),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.0899906897177021),
+                  'v0': np.float64(0.05908782051272514),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.08274234638634842),
+                  'v0': np.float64(0.17842592825294332),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.0726110823432609),
+                  'v0': np.float64(0.033680577859323206),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.15429987774446394),
+                  'v0': np.float64(0.06230319967372651),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.0900859297678277),
+                  'v0': np.float64(0.0322972426520087),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.1150921520835029),
+                  'theta': np.float64(0.0877086508587924),
+                  'v0': np.float64(0.09634854827121539),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(1.1164),
+                  'rho': np.float64(-0.38565865814067907),
+                  'theta': np.float64(0.0832533281054388),
+                  'v0': np.float64(0.039582497159418924),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.11493303414484532),
+                  'v0': np.float64(0.41566600000000004),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.31217519683532263),
+                  'theta': np.float64(0.10001927185541112),
+                  'v0': np.float64(0.0671962055033842),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.288766),
+                  'theta': np.float64(0.08395519900255345),
+                  'v0': np.float64(0.17887906443008994),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(1.1164),
+                  'rho': np.float64(-0.711233974844),
+                  'theta': np.float64(0.08663584843104781),
+                  'v0': np.float64(0.04179890029115378),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.08506938244157856),
+                  'theta': np.float64(0.08422624176411654),
+                  'v0': np.float64(0.17542281350460875),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.0822248997751577),
+                  'v0': np.float64(0.41566600000000004),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.07710904308461891),
+                  'v0': np.float64(0.0337),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.10720546542419547),
+                  'v0': np.float64(0.04079302517632659),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.06384604368120711),
+                  'v0': np.float64(0.16378223985858237),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.09326507433153183),
+                  'v0': np.float64(0.20440247475258835),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(1.1164),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.11523029837573635),
+                  'v0': np.float64(0.033272418627277096),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(-0.0808026616999737),
+                  'theta': np.float64(0.14391148192984848),
+                  'v0': np.float64(0.41566600000000004),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.288766),
+                  'theta': np.float64(0.13091074139516656),
+                  'v0': np.float64(0.054267553497763986),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.0723837876175583),
+                  'v0': np.float64(0.1069778624697098),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.07009914651874428),
+                  'v0': np.float64(0.1141508418743257),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.06957118196802542),
+                  'v0': np.float64(0.06437589145022818),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.1114827081547154),
+                  'v0': np.float64(0.04335211223432484),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.12721137434935859),
+                  'v0': np.float64(0.08737975290061611),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.0569530566245352),
+                  'theta': np.float64(0.1175357681777944),
+                  'v0': np.float64(0.044763918760776344),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+
+{ 'message': 'Optimization terminated successfully.',
+  'parameters': { 'kappa': np.float64(0.8887660251559999),
+                  'mu': np.float64(0.49836600000000003),
+                  'rho': np.float64(0.9068),
+                  'theta': np.float64(0.1295954483469235),
+                  'v0': np.float64(0.13792843304693822),
+                  'xi': np.float64(-0.330933974844)},
+  'success': True}
+

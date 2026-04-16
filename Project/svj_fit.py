@@ -5,23 +5,39 @@ from scipy.stats import norm
 from scipy.optimize import minimize
 
 
-class HestonParticleFilter:
+class SVJParticleFilter:   
     def __init__(self, n_particles = 5000, resample_threshold = 0.5, seed = -1):
         self.n_particles = n_particles
-        self.resample_threshold = resample_threshold
+        self.resample_threshold = resample_threshold  
 
         # # use CRN to get the same log_likelihood from evaluating the same parameters
         # if seed > 0:
         #     np.random.seed(seed)
-        
+
+
     def log_likelihood(self, params, returns, dt = 1/250):
-        # [kappa, theta, xi, rho, v0, mu]
-        kappa, theta, xi, rho, v0, mu = params
+        # [kappa, theta, xi, rho, v0, mu, lamb, mu_J, sigma_J]
+        kappa, theta, xi, rho, v0, mu, lamb, mu_J, sigma_J = params
         
-        # constraints: feller condition
+        # check constraints
+        # feller condition
         if 2 * kappa * theta <= xi**2:
             return -np.inf
-                
+        
+        # jump intensity must be between 0 and 1
+        if lamb <= 0 or lamb >= 1:
+            return -np.inf
+        
+        # positive jump volatility
+        if sigma_J <= 0:
+            return -np.inf
+        
+        # parameter bounds for numerical stability
+        if kappa <= 0 or theta <= 0 or xi <= 0 or v0 <= 0:
+            return -np.inf
+        
+        jump_prob = lamb * dt  # probability of jump in each time step
+        
         # initialize particles
         particles_v = np.ones(self.n_particles) * v0
         particles_v = np.maximum(particles_v, 1e-8)
@@ -43,12 +59,26 @@ class HestonParticleFilter:
             particles_v_new = np.maximum(particles_v_new, 1e-8)
             
             # expected return given volatility
-            cond_mean = (mu - 0.5 * particles_v_new) * dt
-            cond_var = particles_v_new * dt
-            cond_std = np.sqrt(cond_var)
+
+            # drift term
+            drift_term = (mu - 0.5 * particles_v_new) * dt
             
-            # Likelihood of this return for each particle
-            likelihoods = norm.pdf(r, loc=cond_mean, scale=cond_std)
+            # no jump: q_t = 0, prob = 1 - lamb*dt
+            cond_mean_no_jump = drift_term
+            cond_var_no_jump = particles_v_new * dt
+            cond_std_no_jump = np.sqrt(cond_var_no_jump)
+            
+            lik_no_jump = norm.pdf(r, loc=cond_mean_no_jump, scale=cond_std_no_jump)
+            
+            # one jump: q_t = 1, prob = lamb*dt
+            cond_mean_jump = drift_term + mu_J
+            cond_var_jump = particles_v_new * dt + sigma_J**2
+            cond_std_jump = np.sqrt(cond_var_jump)
+            
+            lik_jump = norm.pdf(r, loc=cond_mean_jump, scale=cond_std_jump)
+            
+            # now combine
+            likelihoods = (1 - jump_prob) * lik_no_jump + jump_prob * lik_jump
             
             # update particle weights
             unnormalized_weights = weights * likelihoods
@@ -56,10 +86,10 @@ class HestonParticleFilter:
             
             if weight_sum == 0:
                 return -np.inf
-            
+
             # now normalize
             weights = unnormalized_weights / weight_sum
-
+            
             # likelihood contribution
             log_lik += np.log(weight_sum)
             
@@ -80,35 +110,40 @@ class HestonParticleFilter:
                 particles_v = particles_v_new
         
         return log_lik
-    
 
-def estimate_heston_pf(returns, file, n_particles = 5000):
-    pf = HestonParticleFilter(n_particles = n_particles, seed = 123)
-    
+
+def estimate_svj_pf(returns, file, n_particles = 5000):
+    pf = SVJParticleFilter(n_particles = n_particles, seed=123)
+
     # initial guess - paper values for less-vol-1-year
-    # [kappa, theta, xi, rho, v0, mu]
-    initial_params = np.array([1.5068, 0.1543, 0.2871, -0.0932, 0.0337, 0.1164])
-
+    # [kappa, theta, xi, rho, v0, mu, lamb, mu_J, sigma_J]
+    initial_params = np.array([1.6549, 0.1557, 0.2806, 0.0257, 0.0336, 0.1055, 0.6263, -0.0062, 0.2483])
+    
     def objective(params):
         return -pf.log_likelihood(params, returns)
-
+    
     # run optimization
     result = minimize(
-        objective, 
-        initial_params, 
-        # method='Powell',
+        objective,
+        initial_params,
         method='L-BFGS-B',
         bounds=[
-            (0.01, 5),    # kappa
-            (0.001, 1),    # theta
-            (0.01, 2),     # xi
-            (-0.999, 0),   # rho
-            (0.0001, 1),     # v0
-            (-1, 1),       # mu
+            (0.01, 20),     # kappa
+            (0.001, 1),     # theta
+            (0.01, 2),      # xi
+            (-0.999, 0.999),# rho
+            (1e-5, 1),      # v0
+            (-1, 1),        # mu
+            (1e-4, 249),    # lamb
+            (-1, 1),        # mu_J
+            (1e-4, 2),      # sigma_J
         ],
-        options={'maxiter': 1000,
-                #  'xtol': 0.01,
-                 'ftol': 0.1},
+        # method='Powell',
+        options={
+            'maxiter': 1000, 
+            # 'xtol': 0.01,      
+            'ftol': 0.1,      
+            }
     )
 
     result_formatted = {
@@ -118,7 +153,10 @@ def estimate_heston_pf(returns, file, n_particles = 5000):
             'xi': result.x[2],
             'rho': result.x[3],
             'v0': result.x[4],
-            'mu': result.x[5]
+            'mu': result.x[5],
+            'lamb': result.x[6],
+            'mu_J': result.x[7],
+            'sigma_J': result.x[8]
         },
         'success': result.success,
         'message': result.message
@@ -126,7 +164,7 @@ def estimate_heston_pf(returns, file, n_particles = 5000):
 
     pretty_string = pprint.pformat(result_formatted, indent=2)
 
-    resultspath = file + "_heston.txt"
+    resultspath = file + "_svj.txt"
     with open(resultspath, 'a') as f:
         f.write(pretty_string)
         f.write("\n\n")
@@ -141,10 +179,11 @@ if __name__ == "__main__":
 
     for file in files:
         filename = file + ".csv"
+
         data = pd.read_csv(f"data/{filename}", dtype={'Log_Returns': float})['Log_Returns']
 
         returns_list = np.array(data)
-        result = estimate_heston_pf(returns_list, file)
+        result = estimate_svj_pf(returns_list, file)
 
         print(result)
 
@@ -154,19 +193,23 @@ if __name__ == "__main__":
                 'xi': [0] * _B, 
                 'rho': [0] * _B, 
                 'v0': [0] * _B, 
-                'mu': [0] * _B}
+                'mu': [0] * _B,
+                'lamb': [0] * _B,
+                'mu_J': [0] * _B,
+                'sigma_J': [0] * _B}
+
 
         for r in range(_B):
             print(f"bootstrap {r}")
             bootstraps = np.random.choice(data, size=len(data), replace=True)
 
-            result = estimate_heston_pf(np.array(bootstraps), file)
+            result = estimate_svj_pf(np.array(bootstraps), file)
 
             for key in params.keys():
                 params[key][r] = result['parameters'][key]
 
 
-        with open("heston_params.txt", 'a') as f:
+        with open("svj_params.txt", 'a') as f:
             f.write("=======================\n")
             f.write(f"Results for {file}\n")
             for key, val in params.items():
@@ -180,21 +223,3 @@ if __name__ == "__main__":
                 boot_25, boot_975 = np.percentile(val, [2.5, 97.5])
                 print(f"{key}: {np.mean(val)} [{boot_25}, {boot_975}]\n")
             print("=======================\n\n")
-
-
-
-# bootstrap kappa: [1.50000047296594, 1.4999993836372636]
-# bootstrap theta: [0.1500017026738224, 0.14999993062866074]
-# bootstrap xi: [0.30000110469510016, 0.29999811546615807]
-# bootstrap rho: [-0.0499990957638866, -0.05000169707225707]
-# bootstrap v0: [0.04000164774535792, 0.0399997664773196]
-# bootstrap mu: [0.15000027636697552, 0.14999858600471883]
-
-
-# LESS VOLATILE - 1 YEAR - 100 BOOTSTRAP SAMPLES
-# bootstrap kappa: [1.506802012904741, 1.506799425246059]
-# bootstrap theta: [0.1543027471443737, 0.1542999142725817]
-# bootstrap xi: [0.28710178987835283, 0.28709909565359976]
-# bootstrap rho: [-0.0931982458713911, -0.09320052554381869]
-# bootstrap v0: [0.033701585374156205, 0.03369849333358351]
-# bootstrap mu: [0.11640193480478551, 0.11639842993255]
